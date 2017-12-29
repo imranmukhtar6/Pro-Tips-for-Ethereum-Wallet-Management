@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [The Dangers of Writing This Gitbook](chapter1.md)
+
