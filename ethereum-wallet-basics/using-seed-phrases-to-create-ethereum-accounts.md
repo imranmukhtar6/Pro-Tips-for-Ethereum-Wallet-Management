@@ -1,4 +1,4 @@
-## Using Seed Phrases To Create Ethereum Accounts
+## Bip39 Seeds and Ethereum Keys
 
 Some accounts are created using Bip seed phrases - special kinds of phrases that can generate private keys. The tool I recommend generates a type of Bip phrase called a Bip39 seed phrase.
 
