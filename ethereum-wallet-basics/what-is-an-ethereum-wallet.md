@@ -8,6 +8,8 @@ You cannot send an Ethereum transaction from an address without having the singl
 
 Remember, funds are not sent to the private key, but to the public ethereum address - not to be confused with the public key. I know the wording is confusing.
 
+## Using Seed Phrases To Create Accounts
+
 Some accounts are created using Bip seed phrases - special kinds of phrases that can generate private keys. The tool I recommend generates a type of Bip phrase called a Bip39 seed phrase.
 
 You can think of Bip39 seed phrases like this:
