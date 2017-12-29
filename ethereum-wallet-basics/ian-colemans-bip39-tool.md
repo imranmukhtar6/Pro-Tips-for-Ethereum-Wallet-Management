@@ -18,4 +18,4 @@ And the password is:
 1. Go to https://iancoleman.io/bip39/
 2. Enter the Bip39 seed phrase and the password.
 3. Set “Coin” to “Ethereum”.
-4. Scroll down. You will see the first address is the one above. Scroll over and the first private key is the one above.
+4. Scroll down. You will see the first address is the one above. Scroll over and the first private key is the one above. [The instructions need to be rewritten once an actual Bip39 seed phrase is generated.]
