@@ -22,7 +22,6 @@
 * [Safe Computing](safe-computing.md)
   * [Exchanges and Hot Wallets](safe-computing/exchanges-and-hot-wallets.md)
   * [Good Online Browsing Practices](safe-computing/good-online-browsing-practices-safe-browsing.md)
+  * [Building Your Offline Air-Gapped Computer](safe-computing/building-your-offline-air-gapped-computer.md)
   * [Why SD Cards over USB Keys](safe-computing/why-sd-cards-over-usb-keys.md)
   * [Safer Data Transfer Between Secure and Insecure SD Cards Offline](safe-computing/safer-data-transfer-between-secure-and-insecure-sd-cards-offline.md)
-  * [Building Your Offline Air-Gapped Computer](safe-computing/building-your-offline-air-gapped-computer.md)
-
