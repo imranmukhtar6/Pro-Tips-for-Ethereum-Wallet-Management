@@ -8,7 +8,7 @@ Note, I do not consider myself a privacy or security expert in any way. This boo
 
 This book can aid in the use and setup of privacy and cryptographic software. Many experts and community leaders have thoroughly read and signed off<sup>1</sup> on this book in the hopes it will help better secure the Ethereum ecosystem.
 
-If you are a novice user of Ethereum or are not storing a significant amount of funds, please consider getting yourself a Ledger Nano S<sup>1</sup> and back it up properly. Then, read this git book only to increase your understanding of secure computing.
+If you are a novice user of Ethereum or are not storing a significant amount of funds, please consider getting yourself a Ledger Nano S<sup>2</sup> and back it up properly. Then, read this git book only to increase your understanding of secure computing.
 
 However, if you want to go deeper and empower yourself with some great tools that are available in the space, please keep reading, practicing and using this knowledge within reason for your own setup.
 
