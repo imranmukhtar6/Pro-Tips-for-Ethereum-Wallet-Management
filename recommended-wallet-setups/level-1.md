@@ -1,8 +1,8 @@
 ### Level 1
 
 - Basic Hardware Wallet
- 1. Setup a single Ledger S Nano
- 2. Safely backup and record seeds
+ 1. Setup a single Ledger S Nano.
+ 2. Safely backup and record seeds.
 
 - Basic Software Wallet with MyEtherWallet
  1. Download/Setup Tails 3.0 OS on a USB.
