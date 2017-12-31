@@ -15,4 +15,4 @@ I have written additional tips and instructions for each step for each setup. Cl
 
 ## Footnotes
 1 - This is the first major chapter where we discuss in detail about Ledger Nano S, but we haven't really talked about what the Ledger Nano S *is*, allowing people to decide whether they should prefer using hardware or an offline air-gapped computer.
-2 - I added in the sixth tool (Tails OS) in case we want to move this chapter to the beginning of the book rather than the end.
+2 - I added in the sixth tool (Tails OS) in case we want to move this chapter to the beginning of the book rather than the end. That way, readers understand what TailsOS is.
