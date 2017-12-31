@@ -7,3 +7,13 @@
 - Follow good browser practices while viewing and using exchanges
 - Always use app-based 2-factor authentication  with exchanges (e.g. Authy, Google Authenticator).
 - Always use the maximum amount of security/authentication available.
+
+### List of Some Wallet Malfunctions, Bad Exchange Practice, Known Losses
+
+Many of the current available wallets have lost millions of dollars worth of funds due to UI malfunctions, bugs, and hacks. Here is a small list of some of those and the losses.
+
+1. [Parity](https://ethereum.stackexchange.com/questions/16347/did-i-generate-an-existing-ethereum-address-in-parity#16347) (5000+ ETH loss)
+2. [Jaxx](https://vxlabs.com/2017/06/10/extracting-the-jaxx-12-word-wallet-backup-phrase/) (approx. unknown loss)
+3. [Mist](http://www.newsbtc.com/2016/05/13/ethereum-user-reports-loss-7182-eth-mist-wallet/) (7182+ ETH loss)
+4. [ChamberWallet](https://www.ethnews.com/potential-issue-reported---ethereum-chamber-wallet) (approx. 300+ ETH loss)
+5. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67000+ ETH loss)

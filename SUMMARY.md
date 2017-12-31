@@ -22,4 +22,5 @@
 * [Safe Computing](safe-computing.md)
   * [Exchanges and Hot Wallets](safe-computing/exchanges-and-hot-wallets.md)
   * [Good Online Browsing Practices](safe-computing/good-online-browsing-practices-safe-browsing.md)
+  * [Why SD Cards over USB Keys](safe-computing/why-sd-cards-over-usb-keys.md)
 
