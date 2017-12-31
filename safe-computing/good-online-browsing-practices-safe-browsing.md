@@ -1,4 +1,4 @@
-### Good Online Browsing Practices (Safe Browsing)
+### Good Online Browsing Practices
 
 - Use a good Ad Blocker (for example, AdBlockPlus+).
 - Don’t randomly browse the web (without a controlled browsing environment, i.e. Tails).
