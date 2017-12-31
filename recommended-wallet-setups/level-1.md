@@ -12,8 +12,9 @@
  5. Copy MEW off the SD Card into the “Tor Browser” folder, open the dist folder
  6. Unplug SD card
  7. Right-click `index.html` -> “Open with Tor Browser”
- 8. Enter a strong passphrase, save the wallet file in Tor Browser folder, restore wallet with passphrase to get the address, record the address in a text document.
- 9. Plugin SD card, copy the address text file and wallet backup onto SD card, shutdown Tails.
+ 8. Enter a strong passphrase, save the wallet file in Tor Browser folder, restore wallet with passphrase to get the address, and record the address in a text document.
+ 9. Plugin the SD card and copy the address text file and wallet backup onto SD card.
+ 10. Shutdown Tails.
 
 - Basic Software Wallet with Ian Coleman’s Bip39 Tool
  1. Download/Setup Tails 3.0 OS on a USB.
