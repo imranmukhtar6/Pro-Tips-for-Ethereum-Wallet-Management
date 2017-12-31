@@ -15,7 +15,7 @@ In his Bip39 tool, Ian Coleman describes good entropy generation and his tools u
 >You are not a good source of entropy.
 
 Use a combination of any or all to generate your own source of entropy:
-- Random keyboard smashing
+- Random keyboard smashing<sup>1</sup>
   - Remember to use SHIFT randomly for some uppercase and special characters.
   - Please don't break your keyboard.
 - Using KeePassX built-in password generator (with all entropy settings enabled, and the length set to maximum).
@@ -30,3 +30,9 @@ head -10 /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9~!@#$%^&*(){}[]"|?+="><__-' | 
 ```
 	
 Adjust the `-10` number for more or less lines of entropy.
+
+**Comments**:
+1 - "Random keyboard smashing"
+While we recommend random keyboard smashing in the list of advice, the quote from Ian Coleman is opposed to "keyboard mashing". Is there a difference between the two? If not, should we still recommend it?
+
+
