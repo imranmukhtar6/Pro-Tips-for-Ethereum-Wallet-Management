@@ -23,3 +23,6 @@ While I don't recommend MyEtherWallet (MEW) for cold storage, they are a great o
 16. **No one is giving you free or discounted ETH.** Even for completing a survey.
 17. The guys who just finish their token sale don't want to sell you tokens via Slack DM. Neither does that smokin' hot 125px x 125px avatar.
 18. Lastly: use your brain. Think for a moment. Don't assume, ask. Don't blindly follow, question. If something doesn't seem right...if you feel like the luckiest fucker on Earth...or if you find yourself asking, "I wonder why I haven't seen this on reddit yet", there is likely a reason. 👍"
+
+You may read the full text of the post at:  
+https://www.reddit.com/r/ethereum/comments/6fr2lx/updated_its_time_to_get_real_stop_relying_on/
