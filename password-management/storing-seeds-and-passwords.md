@@ -6,7 +6,7 @@ If an attacker gets your Bip39 seed and passphrase, they have access to all the 
 - Storing them encrypted in KeePassX databases on SD cards is another option (although this is only good for temporary storage).
 - Storing Bip39 seeds in separate locations or devices from Bip39 passphrases.
 - Storing them across multiple digital and physical devices and locations.
-- Storing pieces of passphrases and seeds in different places using Shamir Secret Sharing.
+- Storing pieces of passphrases and seeds in different places using [Shamir Secret Sharing](https://en.wikipedia.org/wiki/Shamir%27s_Secret_Sharing).
 - Storing partial seeds or passphrases and memorizing or Shamir secret sharing the other pieces.
 - Doing a combination of all the above.
 
