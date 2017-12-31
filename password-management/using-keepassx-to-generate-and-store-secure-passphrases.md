@@ -9,7 +9,7 @@ KeePassX fairly easy to use, but here is a simple guide for first time users.
 3. Enter a very strong passphrase. You must decide something you should remember or record this passphrase either through memorization or secure in a safe place. This password should be long and very random.
 4. Select Internet.
 5. Select “Entries → Add New Entry..”
-6. Choose a strong and descriptive title for the passphrase
+6. Choose a strong and descriptive title for the passphrase.
 7. Click the “gen” button beside the “repeat” field.
 8. Select “Random” tab, with upper, lower, numbers and special characters selected.
 9. Select “Exclude look a-like characters” and “Ensure password contains characters from every group”.
