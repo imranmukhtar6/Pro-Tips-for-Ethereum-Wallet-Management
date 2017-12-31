@@ -5,7 +5,7 @@
 - Make small test transactions. Test transactions are great ways to make sure the software is visibly functioning and working before going through with large transfers.
 - Don't rush deposits and withdrawals from exchanges or hot wallets. Take your time and be extremely careful. Read over addresses and values before making any transactions.
 - Follow good browser practices while viewing and using exchanges
-- Always use app-based 2-factor authentication  with exchanges (e.g. Authy, Google Authenticator).
+- Always use app-based 2-factor authentication  with exchanges (e.g. Authy<sup>1</sup>, Google Authenticator).
 - Always use the maximum amount of security/authentication available.
 
 ### List of Some Wallet Malfunctions, Bad Exchange Practice, Known Losses
@@ -17,3 +17,6 @@ Many of the current available wallets have lost millions of dollars worth of fun
 3. [Mist](http://www.newsbtc.com/2016/05/13/ethereum-user-reports-loss-7182-eth-mist-wallet/) (7182+ ETH loss)
 4. [ChamberWallet](https://www.ethnews.com/potential-issue-reported---ethereum-chamber-wallet) (approx. 300+ ETH loss)
 5. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67000+ ETH loss)
+
+### Footnote
+1 - See the private Google Doc for 
