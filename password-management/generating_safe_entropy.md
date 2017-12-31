@@ -26,6 +26,11 @@ Use a combination of any or all to generate your own source of entropy:
 - You can also try using the Unix system entropy generation `/dev/urandom` by running this script in a command line terminal (in Tails OS, you can access Terminal by Applications -> Favorites -> Terminal).
 
 ```
+head -10 /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9~!@#$%^&*(){}[]"|?+="><__-' |
+head -n 1
+```
+
+```
 head -10 /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9~!@#$%^&*(){}[]"|?+="><__-' | head -n 1
 ```
 	
