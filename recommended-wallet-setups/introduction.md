@@ -11,7 +11,7 @@ I have written additional tips and instructions for each step for each setup. Cl
 3. [Ian Coleman's Bip39 tool](https://iancoleman.github.io/bip39/)
 4. [The Gnosis Multi-signature Wallet and dApp](https://wallet.gnosis.pm/)
 5. [The EthOffline Transaction Signer](https://ethjs.github.io/offline/)
-6. [Tails OS](https://tails.boum.org/)<sup>3</sup>
+6. [Tails OS](https://tails.boum.org/)<sup>2</sup>
 
 ## Footnotes
 1 - This is the first major chapter where we discuss in detail about Ledger Nano S, but we haven't really talked about what the Ledger Nano S *is*, allowing people to decide whether they should prefer using hardware or an offline air-gapped computer.
