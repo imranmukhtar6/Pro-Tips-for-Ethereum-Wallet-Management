@@ -4,15 +4,15 @@ Entropy just means randomness or a source of randomness. The more random your so
 
 In his Bip39 tool, Ian Coleman describes good entropy generation and his tools use and source of entropy:
 
->Entropy values must be sourced from a strong source of randomness. This means flipping a fair coin, rolling a fair dice, noise measurements etc. Do NOT use phrases from books, lyrics from songs, your birthday or street address, keyboard mashing, or anything you think is random, because chances are overwhelming it isn't random enough for the needs of this tool.
+>Entropy values must be sourced from a [strong source of randomness](https://en.wikipedia.org/wiki/Random_number_generation). This means flipping a fair coin, rolling a fair dice, noise measurements etc. Do NOT use phrases from books, lyrics from songs, your birthday or street address, keyboard mashing, or anything you think is random, because chances are overwhelming it isn't random enough for the needs of this tool.
 
 >Do not store entropy.
 
->Storing entropy (such as keeping a deck of cards in a specific shuffled order) is unreliable compared to storing a mnemonic. Instead of storing entropy, store the mnemonic generated from the entropy. Steganography may be beneficial when storing the mnemonic.
+>Storing entropy (such as keeping a deck of cards in a specific shuffled order) is unreliable compared to storing a mnemonic. Instead of storing entropy, store the mnemonic generated from the entropy. [Steganography](https://en.wikipedia.org/wiki/Steganography#Physical) may be beneficial when storing the mnemonic.
 
->The random mnemonic generator on this page uses a cryptographically secure random number generator. The built in random generator can generally be trusted more than your own intuition about randomness. If cryptographic randomness isn't available in your browser, this page will show a warning and the generate button will not work. In that case you might choose to use your own source of entropy.
+>The random mnemonic generator on this page uses a [cryptographically secure random number generator](https://developer.mozilla.org/en-US/docs/Web/API/RandomSource/getRandomValues). The built in random generator can generally be trusted more than your own intuition about randomness. If cryptographic randomness isn't available in your browser, this page will show a warning and the generate button will not work. In that case you might choose to use your own source of entropy.
 
->You are not a good source of entropy.
+>[You are not a good source of entropy.](https://bitcointalk.org/index.php?topic=311000.msg3345309#msg3345309)
 
 Use a combination of any or all to generate your own source of entropy:
 - Random keyboard smashing<sup>1</sup>
