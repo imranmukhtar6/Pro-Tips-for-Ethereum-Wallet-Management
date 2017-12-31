@@ -29,7 +29,7 @@ necessary.
 
 - Note that classic PC towers are preferable to laptops.
 
-Paranoia tips:
+**Paranoia tips:**
 - You may also choose to record the MD5 checksum before loading onto the SD card, and re-checking the checksum in Tails with GtkHash before using or loading the software or file.
 
 - Assume the SD card chip and reader itself is trying to trick you and is logging every piece of data transferred on and off the cards.
