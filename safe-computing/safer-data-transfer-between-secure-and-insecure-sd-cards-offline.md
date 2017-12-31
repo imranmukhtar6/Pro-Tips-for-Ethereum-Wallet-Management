@@ -14,7 +14,7 @@ In general, you just want to copy data once from your online machines. Creating 
 5. Unplug the insecure SD card.
 6. Plugin the sensitive SD card.
 7. Safely transfer files onto the secure SD card.
-8. Plug in SD card to Air Gapped machine.
+8. Plug in SD card to Air-Gapped machine.
 
 ### Footnotes
 1 - It is unclear what this sentence means.
