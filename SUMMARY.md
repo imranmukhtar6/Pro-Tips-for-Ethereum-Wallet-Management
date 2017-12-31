@@ -25,3 +25,5 @@
   * [Building Your Offline Air-Gapped Computer](safe-computing/building-your-offline-air-gapped-computer.md)
   * [Why SD Cards over USB Keys](safe-computing/why-sd-cards-over-usb-keys.md)
   * [Safer Data Transfer Between Secure and Insecure SD Cards Offline](safe-computing/safer-data-transfer-between-secure-and-insecure-sd-cards-offline.md)
+  * [Computing Tips](safe-computing/computing-tips.md)
+
