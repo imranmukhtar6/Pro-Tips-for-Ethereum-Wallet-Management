@@ -48,9 +48,3 @@ Which will derive to this public Ethereum address:
 In order to steal the funds out of a wallet, someone needs to know the Bip39 seed phrase, and the password. Then they can just guess all the various HD paths (there are not that many options) until they get the private key.
 
 Once they have the private key, then and only then can they attempt to take all the funds within the wallet.
-
-
-
-
-
-Also note, the hex prefix “0x” is not included in the Bip39 tool’s private and public keys. It should always be added when handling addresses or private keys, if not presented. While it is a minor matter of formatting and is usually not a problem...it is good practice to add it if you don't see it.
