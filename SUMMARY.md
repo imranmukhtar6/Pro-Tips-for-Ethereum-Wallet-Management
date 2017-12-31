@@ -13,4 +13,5 @@
   * [Storing Seeds and Passphrases](password-management/storing-seeds-and-passwords.md)
 * [Tails OS](tails-os.md)
   * [Why Use Tails OS For Wallet Creation/Management](tails-os/why-use-tails-os.md)
+  * [Installing Tails OS](tails-os/installing-tails-os.md)
 
