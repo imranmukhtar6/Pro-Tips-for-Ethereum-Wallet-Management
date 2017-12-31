@@ -19,3 +19,6 @@
   * [Downloading and Validating Ian Coleman's Bip39 Tool on Tails](tails-os/downloading-and-using-ian-colemans-bip39-tool-on-tails.md)
   * [Why You Should Validate Your Tails OS](tails-os/why-you-should-validate-your-tails-os.md)
   * [Final Thoughts on Tails](tails-os/final-thoughts-on-tails.md)
+* [Safe Computing](safe-computing.md)
+  * [Exchanges and Hot Wallets](safe-computing/exchanges-and-hot-wallets.md)
+

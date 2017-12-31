@@ -4,11 +4,11 @@
 1. Go to https://iancoleman.github.io/bip39/
 2. Right-click, “Save as…”
 3. Select “Webpage [Complete]..”
-4. Save the Webpage on to a SD card
-5. Boot into Tails Offline
-6. Select “Places” (top right on screen) → “Tor Browser”
-6. Copy the .html file off the SD card into the “Tor Browser” folder
-7. In the Tor Browser Folder, right click the file and “Open with Tor Browser”
+4. Save the Webpage on to a SD card.
+5. Boot into Tails Offline.
+6. Select “Places” (top right on screen) → “Tor Browser”.
+6. Copy the .html file off the SD card into the “Tor Browser” folder.
+7. In the Tor Browser Folder, right click the file and “Open with Tor Browser”.
 
 ### Validating Ian Coleman’s Bip39 Tool
 1. Go to Ian Coleman's Bip39 tool's Github page (link: https://github.com/iancoleman/bip39/releases).
