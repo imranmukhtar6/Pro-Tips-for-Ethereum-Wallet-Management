@@ -16,3 +16,8 @@
 - Disable stored passwords in browsers.
 - Don't use Windows for anything, ever (IMO).
 - Always enable 2-factor, if available - use 2-factor apps like Authy/Google Authenticator and always remember to safely backup your 2 factor backup codes.
+
+Here are some more guides on safe web browsing:
+	- https://www.veracode.com/blog/2013/01/tips-for-secure-web-browsing-cybersecurity-101
+	- https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/
+	- https://www.webroot.com/us/en/home/resources/articles/pc-security/online-activities-internet-security
