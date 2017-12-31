@@ -1,7 +1,7 @@
 ### Level 1
 
 - Basic Hardware Wallet
- 1. Setup a single Ledger S Nano.
+ 1. Setup a single Ledger Nano S.
  2. Safely backup and record seeds.
 
 - Basic Software Wallet with MyEtherWallet
