@@ -6,4 +6,4 @@
 4. Follow the installation instructions for your OS (I recommend the torrent link).
 5. Restart your machine and boot into the Tails USB.
 
-Note: While unlikely, you should verify your Tails OS ISO image. Follow the tails verification steps on a linux machine. Here's the link to the steps - https://tails.boum.org/install/expert/usb/index.en.html
+Note: While unlikely, you should verify your Tails OS ISO image. Follow the tails verification steps on a linux machine. Here's the link to the steps: https://tails.boum.org/install/expert/usb/index.en.html
