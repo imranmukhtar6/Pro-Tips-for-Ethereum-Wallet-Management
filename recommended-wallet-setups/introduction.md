@@ -1,6 +1,6 @@
 ## Introduction
 
-Here are some recommended wallet setups for the very basic to the very expert users.  These setups are ranked from low to high difficulty. Please choose the difficulty level that is right for you and appropriate for your situation.
+This chapter details some recommended wallet setups for the very basic to the very expert users. These setups are rated based on difficulty level, with 1 being the lowest and 4 being the highest.  Please choose the difficulty level that is right for you and appropriate for your situation.
 
 I have written additional tips and instructions for each step for each setup. Click the guide link beside each step, read and follow thoroughly before proceeding to the next step.
 
