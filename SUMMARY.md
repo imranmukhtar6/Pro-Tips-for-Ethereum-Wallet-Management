@@ -17,4 +17,5 @@
   * [Booting into Tails Offline](tails-os/booting-into-tails-offline.md)
   * [Why You Should Validate Your Tails OS](tails-os/why-you-should-validate-your-tails-os.md)
   * [Final Thoughts on Tails](tails-os/final-thoughts-on-tails.md)
+  * [Booting Any Offline JS/HTML Tool in Tails](tails-os/booting-any-offline-jshtml-tool-in-tails.md)
 
