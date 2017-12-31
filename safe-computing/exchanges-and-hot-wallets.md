@@ -19,4 +19,4 @@ Many of the current available wallets have lost millions of dollars worth of fun
 5. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67000+ ETH loss)
 
 ### Footnote
-1 - See the private Google Doc for 
+1 - See the private Google Doc for suggested additions to this clause.

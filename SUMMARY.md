@@ -28,4 +28,6 @@
   * [Computing Tips](safe-computing/computing-tips.md)
   * [Security Tips from MyEtherWallet Team](safe-computing/security-tips-from-myetherwallet-team.md)
   * [Hardware Preferences](safe-computing/hardware-preferences.md)
+* [Recommended Wallet Setups](recommended-wallet-setups.md)
+  * [Introduction](recommended-wallet-setups/introduction.md)
 
