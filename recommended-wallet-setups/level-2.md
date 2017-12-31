@@ -14,8 +14,8 @@
 - Basic Offline Air-Gapped Software Wallet with MyEtherWallet
  1. Download/Setup Tails 3.0 OS on a USB.
  2. Download/unzip/copy MyEtherWallet (MEW) onto a fresh SD card.
- 3. Setup an Air-Gapped Offline Computer.
- 4. Shutdown/boot into Tails OS on USB on the Air-Gapped Offline Computer.
+ 3. Setup an Offline Air-Gapped Computer.
+ 4. Shutdown/boot into Tails OS on USB on the Offline Air-Gapped Computer.
  5. Click “+ (plus sign) -> Network Settings -> Disable All Network Connections -> Add -> Start Tails”
  6. Copy MEW off the SD Card into the “Tor Browser” folder, open the dist folder
  7. Unplug SD card.
@@ -23,4 +23,4 @@
  9. Enter a strong passphrase, save the wallet file in the Tor Browser folder, restore wallet with passphrase to get the address, and record the address in a text document.
  10. Shutdown the Tor Browser.
  11. Plug in the SD card and copy the address text file and wallet backup onto the SD card.
- 12. Shutdown tTails.
+ 12. Shutdown Tails.
