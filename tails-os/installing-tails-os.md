@@ -1,4 +1,4 @@
-## Installing Tails OS
+### Installing Tails OS
 
 1. Get a USB stick you're ready to completely format and erase.
 2. Get a SD card for file storage.
