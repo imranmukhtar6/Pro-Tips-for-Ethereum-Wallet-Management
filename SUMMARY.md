@@ -15,4 +15,6 @@
   * [Why Use Tails OS For Wallet Creation/Management](tails-os/why-use-tails-os.md)
   * [Installing Tails OS](tails-os/installing-tails-os.md)
   * [Booting into Tails Offline](tails-os/booting-into-tails-offline.md)
+  * [Why You Should Validate Your Tails OS](tails-os/why-you-should-validate-your-tails-os.md)
+  * [Final Thoughts on Tails](tails-os/final-thoughts-on-tails.md)
 
