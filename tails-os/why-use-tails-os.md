@@ -9,7 +9,7 @@ Tails OS is designed with privacy in mind, and security a close second. It is am
 - Comes equipped (like many Linux distros) with KeePassX, for password management/creation/encryption/storage.
 - Contains Safe Browsing/execution environment by-default.
    - All local, offline JS/HTML apps/webpages must be safely copied to the safe “Tor Browser” folder before being executed.
-- A firm, irreversible “Wipe” function can be used to delete sensitive files (right-click.. “Wipe”), such as files containing seeds or passphrases
+- A firm, irreversible “Wipe” function can be used to delete sensitive files (right-click...“Wipe”), such as files containing seeds or passphrases.
 - Comes equipped with default compression with strong encryption options, like .7z via AES (to use, simply right-click “Compress”.. .7z).
 - Contains enough browsing capability to run some basic HTML/JS offline Ethereum Tools
 
