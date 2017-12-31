@@ -31,4 +31,5 @@
 * [Recommended Wallet Setups](recommended-wallet-setups.md)
   * [Introduction](recommended-wallet-setups/introduction.md)
   * [Level 1](recommended-wallet-setups/level-1.md)
+  * [Level 2](recommended-wallet-setups/level-2.md)
 
