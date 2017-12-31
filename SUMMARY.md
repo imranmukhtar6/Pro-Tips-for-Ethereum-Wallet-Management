@@ -1,5 +1,3 @@
-## Introduction
-
 * [Introduction](README.md)
 * [The Dangers of Writing This Gitbook](dangers.md)
 
