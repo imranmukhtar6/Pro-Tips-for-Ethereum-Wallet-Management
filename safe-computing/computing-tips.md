@@ -16,4 +16,4 @@
 - If you want to transfer data or software to one of your secure SD cards, please follow the instructions in "Safer Data Transfer Between Secure and Insecure SD Cards Offline".
 
 ### Footnotes
-Should this page be merged with "Building Your Offline Air-Gapped Computer"? And if so, should we rearrange the TOC so that we have a section focused entirely on setting up and running 'offline air-gapped computers'?
+Should this page be merged with "Building Your Offline Air-Gapped Computer"?
