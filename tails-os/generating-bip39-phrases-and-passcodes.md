@@ -9,7 +9,7 @@
 6. Open KeePassX (Applications → Favorites → KeePassX).
 7. Start or open an existing KeePassX database
 <ul>
-    <li>If you are starting a new KeePassX database, please look at the chapter "Using KeePassX To Generate Secure Passphrases".</li>
+    <li>If you are starting a new KeePassX database, please look at the chapter <a href="/awesome">"Using KeePassX To Generate Secure Passphrases"</a>.</li>
 </ul>
 9. Select “Entries → Add New Entry...”, select a strong title and select “gen”.
 10. Select Random Tab and all options except White Spaces.
@@ -35,3 +35,5 @@ Before using the accounts for anything...please backup everything safely and the
 5. Enter your Bip39 passphrase.
 6. Beside “Coin” select “Ethereum”.
 7. Scroll down and check the addresses you stored against the addresses on screen. If they are the same, then you have properly backed up your seed phrases and passphrases.
+
+[Safely backup and record your seed, passphrase and accounts](/recording-seeds-and-passphrases.md)
