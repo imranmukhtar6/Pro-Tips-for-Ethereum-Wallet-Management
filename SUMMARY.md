@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
   * [Special Thanks](introduction/special-thanks.md)
-  * [The Dangers of Writing This Gitbook](introduction/dangers.md)
+  * [The Dangers of Writing This Book](introduction/dangers.md)
   * [Writing Instructions For Yourself](introduction/writing-instructions-for-yourself.md)
   * [References](introduction/references.md)
 * [Ethereum Wallet Basics](ethereum-wallet-basics.md)
