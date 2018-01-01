@@ -1,6 +1,10 @@
 ### Using EthOffline to sign Ethereum Transactions on an Offline Computer
 
-It is possible to be able to conduct Ethereum transactions offline using a tool called EthOffline. Here's some step-by-step instructions on how to use this tool.
+It is possible to be able to sign Ethereum transactions offline using EthOffline, and to broadcast those transactions to the blockchain by using another application (EthScanner). This way, you can conduct transactions securely without fear of your private key being leaked.
+
+Both applications are located online at https://ethjs.github.io/.
+
+Here's some step-by-step instructions on how to use both tools.
 
 1. Download EthOffline (from https://ethjs.github.io/offline).
 2. Notate the address or addresses you want to send to in a text document.
