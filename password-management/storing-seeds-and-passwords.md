@@ -14,4 +14,5 @@ If an attacker gets your Bip39 seed and passphrase, they have access to all the 
 Note that the more steps involved, including the use of memorization, the higher the risk of losing or failing to recreate the seed.
 
 **Comment**
+
 1 - This advice also came from the private Google Doc. Keep or remove?
