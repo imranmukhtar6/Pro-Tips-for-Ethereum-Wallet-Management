@@ -7,4 +7,4 @@
 - MyEtherWallet Reddit Post: https://www.reddit.com/r/ethereum/comments/6fr2lx/updated_its_time_to_get_real_stop_relying_on/
 
 ** Comments **
-The Google Docs mentions that we need more references and that they need to be in the proper format. I also don't know where would be a good place to put references. After all, we already provide links to those sources elsewhere in the book.
+The Google Docs mentions that we need more references and that they need to be in the proper format. I also don't know where would be a good place to put references within the book itself. After all, we already provide links to those sources elsewhere in the book. If we do need a reference section, should it be at the beginning of the book (in the Introduction section), or at the end of the book (after Recommended Wallet Setups)?
