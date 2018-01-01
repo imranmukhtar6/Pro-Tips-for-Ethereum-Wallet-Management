@@ -28,4 +28,4 @@ And the password is:
 Note that the hex prefix “0x” is not included in the Bip39 tool’s private and public keys. It should always be added when handling addresses or private keys, if not presented. While it is a minor matter of formatting and is usually not a problem...it is good practice to add it if you don't see it.
 
 ** Comments **
-We will need to generate a proper Bip39 seed phrase and rewrite the instructions using that seed phrase. I'm not sure who should generate the seed phrase - should I do it or you?
+Not only do we need to generate a proper Bip39 seed phrase, we also need to rewrite the instructions to recover the private seed using that generated seed phrase.
