@@ -6,8 +6,7 @@
 
 - If you can, remove the networking/wifi card from the old/new PC or laptop.
 
-- Try also completely formatting or removing all hard drives from the computer. You only need to boot Tails off a USB; the hard drive(s) are not 
-necessary.
+- Try also completely formatting or removing all hard drives from the computer. You only need to boot Tails off a USB; the hard drive(s) are not necessary.
 
 - Use a room with no signal or connection always (to ensure to connection attempts cannot be made by things like malware).
 
