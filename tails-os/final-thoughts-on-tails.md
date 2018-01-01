@@ -12,4 +12,4 @@
 - Please read [the Tails warning](https://tails.boum.org/doc/about/warning/index.en.html). Tails is not designed to cover everything. It is just generally safer and less leaky that most modern OSes.
 
 ## Footnotes
-1 - It might be possible to move bullet points 2 and 3 over to "Why You Should Validate Your Tails OS". I'm trying to think of the best way to do it though.
+1 - It might be possible to move bullet points 2 and 3 over to "Why You Should Validate Your Tails OS". I'm trying to think of the best way to do it though, without repeating information already stated in "Why You Should Validate Your Tails OS" (since you already mentioned the dangers of state actors but also that this guide is intended for protection against non-state actors).
