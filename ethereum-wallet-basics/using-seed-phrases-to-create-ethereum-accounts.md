@@ -16,12 +16,11 @@ That private key will then produce a public key.
 
 *That* public key will then produce the public address.
 
-Here's an example of a 24 word Bip39 seed phrase [fix with real phrase]:
-
-	worth useful retire sausage worry 
-	year wave sausage year used useful 
-	sausage thank year wave satisfy team 
-	hockey worth useful retire sausage wave
+Here's an example of a 24 word Bip39 seed phrase:
+    gravity trophy shrimp suspect sheriff   
+    avocado label trust dove tragic pitch title 
+    network myself spell task protect smooth 
+    sword diary brain blossom under bulb
 
 Using this password:
 
@@ -33,15 +32,15 @@ And this HD path:
 
 We will derive this Ethereum private key:
 
-	0xa7543cc9a372f2394cf4713ea8d6a8babf41c51f4fa964ff898420b333351fb1
+	0xb1b3dcf4a200ab01c7aeafb8b4cda3fd03401dd2413d169846959a8f7915fd2f
 
 Which will then derive to this Ethereum public key:
 
-	0x033af70a7e5afa7f9a1eb98dc98b850b4100608bb5ba22d84e83946d5335ab4274
+	0x0322b7e67644956f7672891f92b6d41e8ecab3b8990f0257eb167baf81737f3f7d
 
 Which will derive to this public Ethereum address:
 		
-		0x3B741fdf155df3B0eE42f91D67390F6539f175aB
+		0x02941ca660485Ba7Dc196B510D9A6192c2648709
 
 (Do not use this account for any real funds...you will lose everything you put in there.)
 
