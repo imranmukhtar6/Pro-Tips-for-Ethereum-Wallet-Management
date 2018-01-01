@@ -10,7 +10,7 @@ private key => public key
 public key => public address
 ```
 
-A single Bip39 24 word seed phrase with a Bip39 password, along a particular path (called an HD path) will produce a particular private key.
+A single Bip39 24 word seed phrase with a Bip39 password/passphrase, along a particular path (called an HD path) will produce a particular private key.
 
 That private key will then produce a public key.
 
