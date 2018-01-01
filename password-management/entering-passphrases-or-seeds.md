@@ -8,6 +8,6 @@
 
 I'd also recommend using an Offline computer with Tails OS installed. It is a good environment to enter, store or handle seeds and passphrases for anything.
 
-**Footnotes**
+**Comments**
 
 1 - This advice came from the private Google Doc. Would like to know whether you approve of incorporating it into the final book.
