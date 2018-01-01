@@ -47,6 +47,3 @@ Which will derive to this public Ethereum address:
 In order to steal the funds out of a wallet, someone needs to know the Bip39 seed phrase, and the password. Then they can just guess all the various HD paths (there are not that many options) until they get the private key.
 
 Once they have the private key, then and only then can they attempt to take all the funds within the wallet.
-
-** Comments **
-We will need to generate a proper Bip39 seed phrase to use on this page. I'm not sure who should generate the seed phrase - should I do it or you?
