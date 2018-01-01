@@ -14,4 +14,5 @@ There are many security and community wide attack vectors that can happen after 
 Sometimes the best advice is to take this book and articles like it into consideration, but do a bit of your own thing (within reason) to help protect your wallets and funds.
 
 **Comments**
+
 1 - Readers may be unfamiliar with the idea of "hash verifying" or "gpg software", and the concept of doing so is not introduced until later on in the gitbook. What would be a good way of introducing this concept to beginners? (Or is this book intended for beginners?) [Also see - discussion of this phrase in the private Google Docs as well.]
