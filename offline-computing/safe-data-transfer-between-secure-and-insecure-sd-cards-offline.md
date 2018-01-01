@@ -16,5 +16,5 @@ In general, you just want to copy data once from your online machines. Creating 
 7. Safely transfer files onto the secure SD card.
 8. Plug in SD card to Air-Gapped machine.
 
-### Footnotes
-1 - It is unclear what this sentence means.
+**Footnotes**
+1 - It is unclear what this sentence means. Can you help me understand what this is saying?
