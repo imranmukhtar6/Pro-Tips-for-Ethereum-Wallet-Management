@@ -40,4 +40,5 @@
   * [Level 4](recommended-wallet-setups/level-4.md)
 * [Gnosis Multi-Signature Wallet](gnosis-multi-signature-wallet.md)
   * [Why use the Gnosis Multi-Signature Wallet](gnosis-multi-signature-wallet/why-use-the-gnosis-multi-signature-wallet.md)
+  * [Making a Small Withdrawal from Your Gnosis Multi-Signature Wallet with Ledger S Nano](gnosis-multi-signature-wallet/making-a-small-withdrawal-from-your-gnosis-multi-signature-wallet-with-ledger-nano-s.md)
 
