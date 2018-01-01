@@ -19,5 +19,5 @@
  12. Attempt a 3-signature withdrawal from the multi-signature wallet
  13. Now you can use that multi-signature wallet as your cold-store wallet.
 
-### Footnotes
-Step 4 was included in Level 3, but it seems that it would be accurate for Level 4. Level 3 already mentions you using an Online Computer, while Level 4 appears to require a transition from your Offline Computer to your Online Computer.
+** Footnotes **
+1 - Step 4 was included in Level 3, but it seems that it would be accurate for Level 4. Level 3 already mentions you using an Online Computer, while Level 4 appears to require a transition from your Offline Computer to your Online Computer.
