@@ -4,7 +4,7 @@
 
 As the Ethereum ecosystem grows, so does the wealth of every individual Ethereum. We are risking precious assets everyday by not handling our Ether properly. This book is designed to help give you some pointers and options for creating and managing offline and multi-signature wallets on Ethereum.
 
-Note, I do not consider myself a privacy or security expert in any way. This book is purely me passing on knowledge I have picked up about secure computing and key management over the years. Following these guidelines in no way guarantees in any way that any or all of your funds will be safe.
+I do not consider myself a privacy or security expert in any way. This book is purely me passing on knowledge I have picked up about secure computing and key management over the years. Following these guidelines in no way guarantees in any way that any or all of your funds will be safe.
 
 This book can aid in the use and setup of privacy and cryptographic software. Many experts and community leaders have thoroughly read and signed off<sup>1</sup> on this book in the hopes it will help better secure the Ethereum ecosystem.
 
