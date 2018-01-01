@@ -9,7 +9,7 @@
 - It has lots of coverage and oversight by the community.
 - Finally, Gnosis Team and ConsenSys does persistent maintenance work as well.
 
-### Footnotes
-The private Google Docs recommends adding the trade-offs when using the Wallet.
+** Footnotes **
+The private Google Docs recommends adding the trade-offs when using the Wallet. These trade-offs could be mentioned here.
 
 1 - The comments in the private Google Doc mentions that only a specific version of the Multi-Signature Wallet is holding 200 million dollars worth of ether. What would be the best way of letting users know of this information?
