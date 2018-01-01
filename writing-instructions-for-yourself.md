@@ -9,3 +9,6 @@ This book generally recommends the use of Tails OS and the KeePassX password dat
 Don't worry if you don't know how to use Tails OS or KeePassX right now. We'll talk about how to use them later on in the book.
 
 1 - "Offline Tails" refers to a computer that has the Tails OS installed and is disconnected from the Internet.
+
+### Comments
+In the Private Google Docs, there was requests for information on "estate planning". Is estate planning possible with cryptocurrencies?
