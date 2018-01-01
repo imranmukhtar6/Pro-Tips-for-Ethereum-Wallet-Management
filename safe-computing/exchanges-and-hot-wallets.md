@@ -8,7 +8,7 @@
 - Always use app-based 2-factor authentication  with exchanges (e.g. Authy<sup>2</sup>, Google Authenticator).
 - Always use the maximum amount of security/authentication available.
 
-### List of Some Wallet Malfunctions, Bad Exchange Practice, Known Losses
+### List of Some Wallet Malfunctions/Bad Exchange Practice, and Known Losses
 
 Many of the current available wallets have lost millions of dollars worth of funds due to UI malfunctions, bugs, and hacks. Here is a small list of some of those and the losses.
 
