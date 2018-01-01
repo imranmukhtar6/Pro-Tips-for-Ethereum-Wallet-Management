@@ -17,7 +17,7 @@
  3. Setup an Offline Air-Gapped Computer.
  4. Shutdown/boot into Tails OS on USB on the Offline Air-Gapped Computer.
  5. Click “+ (plus sign) -> Network Settings -> Disable All Network Connections -> Add -> Start Tails”
- 6. Copy MEW off the SD Card into the “Tor Browser” folder, open the dist folder
+ 6. Copy MEW off the SD Card into the “Tor Browser” folder, and then open the dist folder.
  7. Unplug SD card.
  8. Right-click `index.html` -> “Open with Tor Browser”.
  9. Enter a strong passphrase, save the wallet file in the Tor Browser folder, restore wallet with passphrase to get the address, and record the address in a text document.
@@ -30,15 +30,15 @@
   2. Download/unzip/copy Ian Coleman's Bip39 Tool onto a fresh SD card.
  3. Setup an Offline Air-Gapped Computer.
  4. Shutdown/boot into Tails OS on USB on Air-Gapped Offline Computer.
- 5. Click “+ (plus sign) -> Network Settings -> Disable All Network Connections -> Add -> Start Tails”
-- Copy the Bip39 Tool off SD Card into the “Tor Browser” folder, right-click the html file “Open With Tor Browser”.
- 6. Unmount/Unplug the SD card.
- 7. Select “Supply your own source of entropy”, input very strong entropy.
- 8. Generate your Bip39 passphrase with KeePassX.
- 9. Safely record and backup your seed and passphrase.
+ 5. Click “+ (plus sign) -> Network Settings -> Disable All Network Connections -> Add -> Start Tails”.
+ 6. Copy the Bip39 Tool off SD Card into the “Tor Browser” folder, right-click the html file “Open With Tor Browser”.
+ 7. Unmount/Unplug the SD card.
+ 8. Select “Supply your own source of entropy”, and input very strong entropy.
+ 9. Generate your Bip39 passphrase with KeePassX.
+ 10. Safely record and backup your seed and passphrase.
 <ul><li>I do not recommend recording on flash memory or SD, but if you do, make sure to encrypt this data before plugging in and saving on SD card.</li></ul>
- 10. Copy first 5 addressed to a text document.
- 11. Plug in SD card, copy the text document onto the SD card, and then unplug SD card.
- 12. Shutdown and then reboot into Tails Offline.
- 13. Plug in the SD card, copy Bip39 tool off SD card into Tor Browser folder, and then right-click html file “Open with Tor Browser”.
- 14. Re-enter your recorded bip39 seed and passphrase, check the addresses generated are the ones you recorded
+ 11. Copy first 5 addressed to a text document.
+ 12. Plug in SD card, copy the text document onto the SD card, and then unplug SD card.
+ 13. Shutdown and then reboot into Tails Offline.
+ 14. Plug in the SD card, copy Bip39 tool off SD card into Tor Browser folder, and then right-click html file “Open with Tor Browser”.
+ 15. Re-enter your recorded bip39 seed and passphrase, and then check the addresses generated are the ones you recorded.
