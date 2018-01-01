@@ -17,7 +17,7 @@
 
 - Only writing to the cards once and locking them to Offline Air-Gapped computers helps protect the data being transferred.
 
-- Follow the guide for safe data transfer on and off these cards, offline computers go a long way as well in protecting against malware or infected SD cards
+- Follow the guide for safe data transfer on and off these cards. Using offline computers also goes a long way as well in protecting against malware or infected SD cards.
 
 ### Further Reading:
 http://bunniefoo.com/bunnie/sdcard-30c3-pub.pdf
