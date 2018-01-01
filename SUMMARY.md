@@ -38,4 +38,6 @@
   * [Level 2](recommended-wallet-setups/level-2.md)
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
+* [Gnosis Multi-Signature Wallet](gnosis-multi-signature-wallet.md)
+  * [Why use the Gnosis Multi-Signature Wallet](gnosis-multi-signature-wallet/why-use-the-gnosis-multi-signature-wallet.md)
 
