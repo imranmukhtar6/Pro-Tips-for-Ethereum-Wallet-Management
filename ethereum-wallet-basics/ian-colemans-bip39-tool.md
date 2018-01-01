@@ -31,6 +31,7 @@ And this private key...
 1. Go to https://iancoleman.io/bip39/
 2. Enter the Bip39 seed phrase and the password.
 3. Set “Coin” to “Ethereum”.
-4. Scroll down. You will see the first address is the address we want to recover. Scroll over and the first private key is the one above.
+4. Scroll down. You will see the first address is the address we want to recover.
+5. Scroll over and you will find the private key of that address (which matches the private key we want to withdraw).
 
 Note that the hex prefix “0x” is not included in the Bip39 tool’s private and public keys. It should always be added when handling addresses or private keys, if not presented. While it is a minor matter of formatting and is usually not a problem...it is good practice to add it if you don't see it.
