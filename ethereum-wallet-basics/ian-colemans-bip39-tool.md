@@ -9,23 +9,27 @@ It also has:
 
 If we know the password and our Bip39 seed phrase, we can  recover our private key with Ian Coleman's tool. Let's try it out with the example password and Bip39 seed phrase we used in the last chapter.
 
-The Bip39 seed phrase is [replace with actual phrase]:
+The Bip39 seed phrase is:
 
-    worth useful retire sausage worry
-    year wave sausage year used useful
-    sausage thank year wave satisfy team
-    hockey worth useful retire sausage wave
+    gravity trophy shrimp suspect sheriff
+    avocado label trust dove tragic pitch title
+    network myself spell task protect smooth 
+    sword diary brain blossom under bulb
 
 And the password is:
 
     fJF*(SDF*(*@J!)(SU*(D*F&^&TYSDFHL#@HO*&O
 
+We want to recover this address...
+
+        0x02941ca660485Ba7Dc196B510D9A6192c2648709
+
+And this private key...
+    0xb1b3dcf4a200ab01c7aeafb8b4cda3fd03401dd2413d169846959a8f7915fd2f
+
 1. Go to https://iancoleman.io/bip39/
 2. Enter the Bip39 seed phrase and the password.
 3. Set “Coin” to “Ethereum”.
-4. Scroll down. You will see the first address is the one above. Scroll over and the first private key is the one above. [The instructions need to be rewritten once an actual Bip39 seed phrase is generated.]
+4. Scroll down. You will see the first address is the address we want to recover. Scroll over and the first private key is the one above.
 
 Note that the hex prefix “0x” is not included in the Bip39 tool’s private and public keys. It should always be added when handling addresses or private keys, if not presented. While it is a minor matter of formatting and is usually not a problem...it is good practice to add it if you don't see it.
-
-** Comments **
-Not only do we need to generate a proper Bip39 seed phrase, we also need to rewrite the instructions to recover the private seed using that generated seed phrase.
