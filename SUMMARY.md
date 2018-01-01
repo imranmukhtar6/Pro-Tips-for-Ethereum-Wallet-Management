@@ -1,8 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
- * [The Dangers of Writing This Gitbook](dangers.md)
- * [Writing Instructions For Yourself](writing-instructions-for-yourself.md)
+  * [The Dangers of Writing This Gitbook](introduction/dangers.md)
+  * [Writing Instructions For Yourself](introduction/writing-instructions-for-yourself.md)
+  * [Special Thanks](introduction/special-thanks.md)
 * [Ethereum Wallet Basics](ethereum-wallet-basics.md)
   * [What is An Ethereum Wallet?](ethereum-wallet-basics/what-is-an-ethereum-wallet.md)
   * [Bip39 Seeds and Etherum Keys](ethereum-wallet-basics/using-seed-phrases-to-create-ethereum-accounts.md)
@@ -41,3 +42,4 @@
   * [Level 2](recommended-wallet-setups/level-2.md)
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
+
