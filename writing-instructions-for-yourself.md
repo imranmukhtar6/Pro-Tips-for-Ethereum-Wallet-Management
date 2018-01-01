@@ -11,6 +11,7 @@ Don't worry if you don't know how to use Tails OS or KeePassX right now. We'll t
 1 - "Offline Tails" refers to a computer that has the Tails OS installed and is disconnected from the Internet.
 
 **Comments**
+
 This chapter seems small, but that's only because I couldn't find any other place to put it.
 
 In the Private Google Docs, there was requests for information on "estate planning". Is estate planning possible with cryptocurrencies? If so, how would that be done?
