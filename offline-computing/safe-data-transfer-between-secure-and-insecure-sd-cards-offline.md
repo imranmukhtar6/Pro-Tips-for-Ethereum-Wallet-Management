@@ -17,4 +17,4 @@ In general, you just want to copy data once from your online machines. Creating 
 8. Plug in SD card to Air-Gapped machine.
 
 **Footnotes**
-1 - It is unclear what this sentence means. Can you help me understand what this is saying?
+1 - It is unclear what this sentence means. Can you help me understand what you mean by this?
