@@ -19,6 +19,7 @@
   * [Booting into Tails Offline](tails-os/booting-into-tails-offline.md)
   * [Booting Any Offline JS/HTML Tool in Tails](tails-os/booting-any-offline-jshtml-tool-in-tails.md)
   * [Downloading and Validating Ian Coleman's Bip39 Tool on Tails](tails-os/downloading-and-using-ian-colemans-bip39-tool-on-tails.md)
+  * [Generating Bip39 Phrases and Passcodes](tails-os/generating-bip39-phrases-and-passcodes.md)
   * [Final Thoughts on Tails](tails-os/final-thoughts-on-tails.md)
 * [Offline Computing](offline-computing.md)
   * [Building Your Offline Air-Gapped Computer](offline-computing/building-your-offline-air-gapped-computer.md)
@@ -36,3 +37,4 @@
   * [Level 1](recommended-wallet-setups/level-1.md)
   * [Level 2](recommended-wallet-setups/level-2.md)
   * [Level 3](recommended-wallet-setups/level-3.md)
+
