@@ -16,7 +16,8 @@ That private key will then produce a public key.
 
 *That* public key will then produce the public address.
 
-Here's an example of a 24 word Bip39 seed phrase:
+#### Example
+Here is a standard 24 word Bip39 seed phrase.
 
     gravity trophy shrimp suspect sheriff   
     avocado label trust dove tragic pitch title 
