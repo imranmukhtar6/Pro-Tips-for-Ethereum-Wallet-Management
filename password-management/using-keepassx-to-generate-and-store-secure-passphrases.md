@@ -18,7 +18,7 @@ KeePassX fairly easy to use, but here is a simple guide for first time users.
 12. Click the Eye icon to view the newly generated passphrase (remember some parts can be cut off by the input field, so be careful when copying).
 13. Select “OK” and then “OK” again.
 14. Now make sure to save your KeePassX DB “File → Save Database As...”, preferably on the computer first, then copied to the SD card for backup (if you are using Tails).
-15. Once saved, remember to check your KeePassX DB and passphrase before using the passwords anywhere, try closing KeePassX and re-entering your database passphrase (preferably off of your SD card)
+15. Once saved, remember to check your KeePassX DB and passphrase before using the passwords anywhere, try closing KeePassX and re-entering your database passphrase (preferably off of your SD card).
 16. Make sure the password you created is still there, by opening up the entry and viewing the passphrase by clicking the Eye icon.
 
 Always remember to save your database and close KeePassX before ejecting the SD card you are using.
