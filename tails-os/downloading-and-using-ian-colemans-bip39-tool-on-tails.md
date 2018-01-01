@@ -19,5 +19,6 @@
 6. If all hashes match up, you have the right file.
 7. (Optional) On a phone or separate connection, check to see if the Github hash and Twitter hash all are the same. Having multiple points of reference from multiple connections are a way to validate the tools integrity (GPG and Bittorrent are also good methods if available).
 
-## Footnotes
+**Footnotes**
+
 1 - The first section (Downloading and Using) states that you should download straight from the website, while the second section (Validating) states that you should download from the Github page. Which advice should we prefer? Or should we download from multiple sources, in case one of them gets compromised?
