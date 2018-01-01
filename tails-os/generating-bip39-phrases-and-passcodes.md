@@ -35,5 +35,3 @@ Before using the accounts for anything...please backup everything safely and the
 5. Enter your Bip39 passphrase.
 6. Beside “Coin” select “Ethereum”.
 7. Scroll down and check the addresses you stored against the addresses on screen. If they are the same, then you have properly backed up your seed phrases and passphrases.
-
-[Safely backup and record your seed, passphrase and accounts](/recording-seeds-and-passphrases.md)
