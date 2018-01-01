@@ -12,6 +12,6 @@ If you are a novice user of Ethereum or are not storing a significant amount of 
 
 However, if you want to go deeper and empower yourself with some great tools that are available in the space, please keep reading, practicing and using this knowledge within reason for your own setup.
 
-## Footnotes
+## Comments
 1 - See discussion in Private Google Doc. Should we keep this phrase in this book?
 2 - Private Google Doc recommends mentioning "Coinbase" as well as an alternative. Should we add?
