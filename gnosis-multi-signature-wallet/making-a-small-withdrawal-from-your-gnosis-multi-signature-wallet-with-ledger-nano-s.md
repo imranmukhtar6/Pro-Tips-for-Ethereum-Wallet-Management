@@ -1,7 +1,7 @@
 ### Making a Small Withdrawal from Your Gnosis Multi-Signature Wallet with Ledger Nano S
 
 1. Open https://wallet.gnosis.pm/ . Remember to verify links independently as well.
-2. Select “Settings”, change “Web3 Wallet” to “Ledger S Nano”, and select “Update”.
+2. Select “Settings”, change “Web3 Wallet” to “Ledger Nano S”, and select “Update”.
 3. Refresh the page.
 4. Select “Withdrawal” on your wallet.
 5. Select a very tiny amount of funds to withdraw from the wallet.
