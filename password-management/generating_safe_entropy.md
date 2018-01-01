@@ -1,6 +1,6 @@
 ## Generating Safe Entropy (Randomness)
 
-Entropy just means randomness or a source of randomness. The more random your sources of entropy are the stronger your key and password generation will be (ultimately helping to protect your funds more).
+Entropy just means randomness or a source of randomness. The more random your sources of entropy are the stronger your key and password/passphrase generation will be (ultimately helping to protect your funds more).
 
 In his Bip39 tool, Ian Coleman describes good entropy generation and his tools use and source of entropy:
 
