@@ -7,7 +7,7 @@
 
 - Do not use a wireless mouse or keyboard (those  signals are not encrypted).
 
-- Use fresh SD cards (not USBs or MicroSDs) for data storage and transfer into and out of your safe offline environment,. They are usually simpler than USBs and you have less of a chance of being infected by malware on these chips (however, it could/and still is possible, so be careful).
+- Use fresh SD cards (not USBs or MicroSDs) for data storage and transfer into and out of your safe offline environment. They are usually simpler than USBs and you have less of a chance of being infected by malware on these chips (however, it could/and still is possible, so be careful).
 
 - If you are storing or backing up seeds, keys, passphrases or unencrypted KeePassX databases, never plug those into a live online computer (ever). If you have accidentally done so, assume those keys are compromised and remove all funds from those accounts immediately.
 
