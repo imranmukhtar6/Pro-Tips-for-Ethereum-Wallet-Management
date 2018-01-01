@@ -1,10 +1,11 @@
 ### Level 4
 
 - 3 of 5 Gnosis Multi-Signature Wallet, Using an "Offline Computer"
- 1. Setup/boot your Air-Gapped Offline Computer
- 2. Boot Tails OS via USB on your Offline Computer
+ 1. Setup/boot your Air-Gapped Offline Computer.
+ 2. Boot Tails OS via USB on your Offline Computer.
  3. Setup 5 *Level 2* software or hardware wallets. Record those 5 account addresses offline.
- 4. Open https://wallet.gnosis.pm/ in a secured browser on an online computer.
+ 4. Boot your Online Computer.
+ 4. Open https://wallet.gnosis.pm/ in a secured browser.
  5. Use your Ledger Nano S to activate the wallet dApp
  6. Select “new”.
  7. Specify your 5 account addresses as the owners of the wallet.
