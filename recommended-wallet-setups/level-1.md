@@ -26,7 +26,9 @@
  7. Select “Supply your own source of entropy” and then input very strong entropy.
  8. Generate your Bip39 passphrase with KeePassX.
  9. Safely record and backup your seed and passphrase.
-  <ul><li>I do not recommend recording on flash memory or SD, but if you do, make sure to encrypt this data before plugging in and saving on SD card.</li></ul>
+  <ul>
+   <li>I do not recommend recording on flash memory or SD, but if you do, make sure to encrypt this data before plugging in and saving on SD card.</li>
+  </ul>
  10. Copy first 5 addresses to a text document.
  11. Plug in SD card, copy the text document onto the SD card, and then unplug SD card.
  12. Shutdown and then reboot into Tails Offline.
