@@ -33,5 +33,6 @@
 
 - Assume the SD card chip and reader itself is trying to trick you and is logging every piece of data transferred on and off the cards.
 
-### Footnotes
+**Footnotes**
+
 1 - I added this introduction as I didn't really know what you meant by "air-gapped computer" and needed to look it up online to get a basic understanding. Let me know if this introductory paragraph is needed.
