@@ -25,6 +25,7 @@ We want to recover this address...
         0x02941ca660485Ba7Dc196B510D9A6192c2648709
 
 And this private key...
+    
     0xb1b3dcf4a200ab01c7aeafb8b4cda3fd03401dd2413d169846959a8f7915fd2f
 
 1. Go to https://iancoleman.io/bip39/
