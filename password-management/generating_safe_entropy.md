@@ -32,6 +32,7 @@ head -10 /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9~!@#$%^&*(){}[]"|?+="><__-' | 
 Adjust the `-10` number for more or less lines of entropy.
 
 **Comments**:
+
 1 - "Random keyboard smashing"
 While we recommend random keyboard smashing in the list of advice, the quote from Ian Coleman is opposed to "keyboard mashing". Is there a difference between the two? If not, should we still recommend it?
 
