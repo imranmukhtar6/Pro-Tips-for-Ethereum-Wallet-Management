@@ -1,4 +1,4 @@
-### Safer Data Transfer Between Secure and Insecure SD Cards Offline
+### Safe Data Transfer Between Secure and Insecure SD Cards Offline
 
 You may want to transfer data between sensitive and nonsensitive SD cards. This should be done through Tails, preferably with encryption. Here is a quick process flow for doing a safe transfer.
 
