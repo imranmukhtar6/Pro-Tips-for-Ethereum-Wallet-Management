@@ -18,6 +18,8 @@ Many of the current available wallets have lost millions of dollars worth of fun
 4. [ChamberWallet](https://www.ethnews.com/potential-issue-reported---ethereum-chamber-wallet) (approx. 300+ ETH loss)
 5. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67000+ ETH loss)
 
-### Footnote
+** Footnote **
+
 1 - Depending on the intended audience, it may be necessary to define what is a hot wallet.
+
 2 - See the private Google Doc for suggested additions to this clause.
