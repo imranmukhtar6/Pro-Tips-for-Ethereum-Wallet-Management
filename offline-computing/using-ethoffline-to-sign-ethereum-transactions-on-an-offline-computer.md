@@ -20,6 +20,5 @@ Here's some step-by-step instructions on how to use both tools.
 12. Click Sign Transaction, scan the QR code prompted with the EthScanner app.
 13. On the EthScanner app, click “Broadcast Transaction to Mainnet”.
 
-
 ## Footnote
 1 - The first two paragraphs are my attempts to explain EthOffline/EthScanner, but I'm not quite sure whether I fully understand how it works myself. Please let me know if these paragraph are  sufficient or if additional clarifications are necessary.
