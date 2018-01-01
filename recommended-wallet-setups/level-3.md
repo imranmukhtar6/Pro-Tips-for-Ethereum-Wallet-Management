@@ -14,6 +14,6 @@
  <ul>
   <li>By following this withdrawal process, hackers can see that you have potentially read this article and are following these instructions.</li>
  </ul>
- 11. Once all accounts successfully have withdrawn a small amount of funds from the wallet, then deposit an amount slightly larger than the Daily Limit.
+ 11. Once all accounts successfully have withdrawn a small amount of funds from the wallet, deposit an amount slightly larger than the Daily Limit.
  12. Attempt a 3-signature withdrawal from the multi-signature wallet
  13. Now you can use that multi-signature wallet as your cold-store wallet.
