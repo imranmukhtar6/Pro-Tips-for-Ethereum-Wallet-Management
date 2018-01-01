@@ -20,6 +20,6 @@ Many of the current available wallets have lost millions of dollars worth of fun
 
 ** Footnote **
 
-1 - Depending on the intended audience, it may be necessary to define what is a hot wallet.
+1 - Depending on the intended audience, it may be necessary to define what is a hot wallet, either here or earlier in the book. (We also mention the term "cold wallet" in the Recommended Wallet Setup as well.)
 
 2 - See the private Google Doc for suggested additions to this clause.
