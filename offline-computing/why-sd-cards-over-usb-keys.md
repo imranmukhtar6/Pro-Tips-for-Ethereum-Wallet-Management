@@ -1,4 +1,5 @@
 ### Why SD Cards over USB Keys
+
 - SD Cards are simply a leaner and simpler flash memory chip than USBs (meaning they have less firmware and less accessible firmware, from what I’ve researched).
 
 - By design they contain simpler hardware than USBs, but still none the less have firmware of some kind. They are slightly less complex than microSDs, but virtually the same from a vulnerabilities perspective.
