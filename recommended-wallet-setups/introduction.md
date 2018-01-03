@@ -7,10 +7,15 @@ I have written additional tips and instructions for each step for each setup. Cl
 **Most of these setups involve a combination of the following 6 tools:**
 
 1. [Ledger Nano S Hardware Wallet](https://www.ledgerwallet.com/products/ledger-nano-s)<sup>3</sup>
+
 2. [https://www.MyEtherWallet.com](https://www.myetherwallet.com/)
+
 3. [Ian Coleman's Bip39 tool](https://iancoleman.github.io/bip39/)
+
 4. [The Gnosis Multi-signature Wallet and dApp](https://wallet.gnosis.pm/)
+
 5. [The EthOffline Transaction Signer](https://ethjs.github.io/offline/)<sup>4</sup>
+
 6. [Tails OS](https://tails.boum.org/)<sup>5</sup>
 
 **Comments**
