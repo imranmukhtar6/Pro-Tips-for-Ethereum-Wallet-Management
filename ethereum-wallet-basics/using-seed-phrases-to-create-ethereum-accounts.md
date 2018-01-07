@@ -17,7 +17,7 @@ That private key will then produce a public key.
 *That* public key will then produce the public address.
 
 #### Example
-Here is a standard<sup>1</sup> 24 word Bip39 seed phrase.
+Here is a standard 24 word Bip39 seed phrase.
 
     gravity trophy shrimp suspect sheriff   
     avocado label trust dove tragic pitch title 
@@ -49,6 +49,3 @@ Which will derive to this public Ethereum address:
 In order to steal the funds out of a wallet, someone needs to know the Bip39 seed phrase, and the password. Then they can just guess all the various HD paths (there are not that many options) until they get the private key.
 
 Once they have the private key, then and only then can they attempt to take all the funds within the wallet.
-
-** Comments **
-1 - I generated a new seed phrase using Ian Coleman's Bip39 tool to replace the incomplete one in the Google Doc, but I want to clarify whether this is the proper course of action (or if there was already a pre-generated seed phrase intended for use in tutorials like these).
