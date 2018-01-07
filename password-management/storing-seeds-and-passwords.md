@@ -4,7 +4,7 @@ If an attacker gets your Bip39 seed and passphrase, they have access to all the 
 
 - Writing seed phrases or passphrases down on paper.
 
-    - If you do decide to write on a piece of paper, consider having two copies in case one copy becomes so degraded through wear-and-tear as to be completely unreadable.<sup>1</sup>
+    - If you do decide to write on a piece of paper, consider having two copies in case one copy becomes so degraded through wear-and-tear as to be completely unreadable.
 
     
 - Storing them encrypted in KeePassX databases on SD cards is another option (although this is only good for temporary storage).
@@ -20,7 +20,3 @@ If an attacker gets your Bip39 seed and passphrase, they have access to all the 
 - Doing a combination of all the above.
 
 Note that the more steps involved, including the use of memorization, the higher the risk of losing or failing to recreate the seed.
-
-**Comment**
-
-1 - This advice also came from the private Google Doc. Keep or remove?
