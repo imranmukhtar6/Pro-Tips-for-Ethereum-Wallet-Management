@@ -6,4 +6,4 @@ Most wallets out there require you to plug them in physically with a computer or
 
 A better, but somewhat harder to use approach, is an air-gapped hardware wallet. Here, the wallet is never plugging into a phone or computer. Instead, the device scans QR code data off a phone or computer and produces QR code data (after confirmation) to be scanned by a computer or phone. This air-gaping ensures that the device is less vulnerable to hardware or software level attacks, made possible by a direct physical connection, such as a USB cable.
 
-While there are some air-gaped hardware wallets coming onto the market, they are less popular and harder to use on a regular basis.
+While there are some air-gapped hardware wallets coming onto the market, they are less popular and harder to use on a regular basis.
