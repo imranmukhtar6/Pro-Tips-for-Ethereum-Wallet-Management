@@ -1,6 +1,6 @@
 ### Building Your Offline Air-Gapped Computer
 
-- An "Offline Air-Gapped Computer" is a computer that is not connected to the Internet and is physically isolated from all other computers. These computers are considered incredibly secure, and are much harder to hack than other computers  (for more information, please read [this article by Wired](https://www.wired.com/2014/12/hacker-lexicon-air-gap/)). <sup>1</sup>
+- An "Offline Air-Gapped Computer" is a computer that is not connected to the Internet and is physically isolated from all other computers. These computers are considered incredibly secure, and are much harder to hack than other computers  (for more information, please read [this article by Wired](https://www.wired.com/2014/12/hacker-lexicon-air-gap/)).
 
 - Many of us don't have the funds to go and purchase a new (straight from the factory)  computer to use solely as an offline air-gapped computer for Ethereum...but you can refurbish an old or used computer as well.
 
@@ -32,7 +32,3 @@
 - You may also choose to record the MD5 checksum before loading onto the SD card, and re-checking the checksum in Tails with GtkHash before using or loading the software or file.
 
 - Assume the SD card chip and reader itself is trying to trick you and is logging every piece of data transferred on and off the cards.
-
-**Footnotes**
-
-1 - I added this introduction as I didn't really know what you meant by "air-gapped computer" and needed to look it up online to get a basic understanding. Let me know if this introductory paragraph is needed.
