@@ -43,4 +43,6 @@
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
 * [References](introduction/references.md)
+* [Hardware Wallets](hardware-wallets.md)
+  * [What are Hardware Wallets?](hardware-wallets/what-are-hardware-wallets.md)
 
