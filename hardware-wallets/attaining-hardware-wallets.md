@@ -2,7 +2,7 @@
  
 - There are countless scams attempting to sell you either pre-setup or maliciously programmed hardware wallets. Always buy Hardware Wallets directly from the manufacturer.
 
-- Always make sure the device is not opened or damaged in anyway before attempting to use on.
+- Always make sure the device is not opened or damaged in anyway before attempting to use it.
 
 - Always ensure, if there is a verification step, to verify that the device has come from the manufacturer's shipping address. Double and triple check that the website you are ordering from is the manufacturer's website.
 
