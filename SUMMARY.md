@@ -47,4 +47,5 @@
   * [What are Hardware Wallets?](hardware-wallets/what-are-hardware-wallets.md)
   * [Using a Hardware Wallet](hardware-wallets/using-a-hardware-wallet.md)
   * [Attaining Hardware Wallets](hardware-wallets/attaining-hardware-wallets.md)
+  * [Risks of Hardware Wallets](hardware-wallets/risks-of-hardware-wallets.md)
 
