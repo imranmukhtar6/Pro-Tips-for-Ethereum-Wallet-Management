@@ -1,6 +1,6 @@
 ## What are Hardware Wallets?
 
-A hardware wallet is a device which will manage cryptographic key pairs, in our case Ethereum keys. The wallets usually have safe mechanisms for both generating cryptographic keys and signing transactions (among other things).
+A hardware wallet is a device which will manage cryptographic key pairs (in our case, Ethereum keys). The wallets usually have safe mechanisms for both generating cryptographic keys and signing transactions (among other things).
 
 The idea behind them is that normal computing devices are often plagued by vulnerabilities because we (consumers and developers) use them in many different ways for many different things, often with constantly changing software, opening doors for malware and unsafe computing practices.
 
