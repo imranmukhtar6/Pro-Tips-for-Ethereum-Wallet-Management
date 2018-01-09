@@ -1,12 +1,14 @@
 ## Why Use the Gnosis Multi-Signature Wallet
 
-- It is currently holding more than 200 million dollars worth of ether.<sup>1</sup>
+- It is currently holding an extremely large sum of Ether and tokens.
 
 - Its code is simple.
 
 - It possesses an easy-to-use user-interface.
 
 - The wallet has been audited and bug bountied by the community on multiple occasions.
+
+- Many ICOs prefer this 
 
 - It can be used with a Daily Limit - if most of your keys are lost, you can still drain your funds out slowly every day with a single account.
 
