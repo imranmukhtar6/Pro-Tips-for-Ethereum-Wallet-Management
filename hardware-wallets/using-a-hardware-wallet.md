@@ -1,4 +1,4 @@
-## Using a Hardware Wallet
+### Using a Hardware Wallet
 
 Most high-quality hardware wallets on the market today usually have a setup phrase. This where you will generate your initial seed phrases (often a Bip39 phrase) and set your passphrase or pin physically on the device. The seed phrases can be used to generate keys for multiple crypto-currencies such as Bitcoin and Ethereum.
 
