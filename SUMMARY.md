@@ -45,4 +45,5 @@
 * [References](introduction/references.md)
 * [Hardware Wallets](hardware-wallets.md)
   * [What are Hardware Wallets?](hardware-wallets/what-are-hardware-wallets.md)
+  * [Using a Hardware Wallet](hardware-wallets/using-a-hardware-wallet.md)
 
