@@ -19,7 +19,7 @@ Use a combination of any or all to generate your own source of entropy:
 - Rolling dice, flipping a coin and recording those numbers.
   - According to Christian Lundkvist, if you roll a set of 5 dice 10 times, you will get more than 128 bits of entropy, which should be sufficient for generating seeds/private keys.
 - Keyboard Smashing. Despite what Ian Coleman said, keyboard smashing is fine when you combine it with other safe methods (like rolling dice). There are two ways to do keyboard smashing:
- - Random physical keyboard smashing
+ - Random physical keyboard smashing.
    - Remember to use SHIFT randomly for some uppercase and special characters.
    - Please don't break your keyboard.
  - Mouse smashing with a virtual keyboard, like the Florence Virtual Keyboard in Tails OS.
@@ -31,10 +31,4 @@ head -10 /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9~!@#$%^&*(){}[]"|?+="><__-' | 
 ```
 	
 Adjust the `-10` number for more or less lines of entropy.
-
-**Comments**:
-
-1 - "Random keyboard smashing"
-While we recommend random keyboard smashing in the list of advice, the quote from Ian Coleman is opposed to "keyboard mashing". Is there a difference between the two? If not, should we still recommend it?
-
 
