@@ -1,6 +1,8 @@
 ## Storing Seeds and Passphrases
 
-If an attacker gets your Bip39 seed and passphrase, they have access to all the accounts that can be generated with that seed and passphrase. You must use extreme care and caution when recording or storing your seeds and passphrases. There are many ways to safely store and secure Bip39 seeds and passphrases. Ultimately it is up to you and what you are willing/comfortable doing for your own security. Some recommendations:
+If an attacker gets your Bip39 seed and passphrase, they have access to all the accounts that can be generated with that seed and passphrase. You must use extreme care and caution when recording or storing your seeds and passphrases. There are many ways to safely store and secure Bip39 seeds and passphrases.
+
+Ultimately it is up to you and what you are willing/comfortable doing for your own security. Here are some recommendations:
 
 - Writing seed phrases or passphrases down on paper.
 
