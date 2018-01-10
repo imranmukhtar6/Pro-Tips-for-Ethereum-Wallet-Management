@@ -2,10 +2,14 @@
 
 There are many security and community wide attack vectors that can happen after publishing a book like this:
 
-1\. I’m listing a specific set of recommended software tools and hardware, all of which can be spoofed, replaced or poisoned with malware.
+1\. I’m listing a specific set of recommended software tools and hardware, all of which can be spoofed, replaced or poisoned with malware. Before going ahead with any of all of these recommendations:
 
- - Please double check links, hash verify or gpg software<sup>1</sup>, and check with the community and friends on reddit or the forums before going ahead with 
-any or all these recommendations.
+ - Double check links.
+ - Check with the community and friends on reddit or the forums.
+ - Validate that the software you downloaded is indeed coming from official sources by comparing the checksum of the software with the checksum posted on official sources.
+
+ - Please double check links, validate the you are downloading the correct software by comparing their checksum with an external source, and check with the community and friends on reddit or the forums before going ahead with any or all these recommendations.
+ - You can do 
 
 
 2\. If everyone starts to follow these instructions, it organizes a single attack vector for hackers (they can/will focus in on these tools and approaches with spoofing or code poisoning).
