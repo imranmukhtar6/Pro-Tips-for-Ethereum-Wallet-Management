@@ -26,7 +26,6 @@
   * [Building Your Offline Air-Gapped Computer](offline-computing/building-your-offline-air-gapped-computer.md)
   * [Why SD Cards over USB Keys](offline-computing/why-sd-cards-over-usb-keys.md)
   * [Safe Data Transfer Between Secure and Insecure SD Cards Offline](offline-computing/safe-data-transfer-between-secure-and-insecure-sd-cards-offline.md)
-  * [Using EthOffline to sign Ethereum Transactions on an Offline Computer](offline-computing/using-ethoffline-to-sign-ethereum-transactions-on-an-offline-computer.md)
 * [Safe Computing](safe-computing.md)
   * [Exchanges and Hot Wallets](safe-computing/exchanges-and-hot-wallets.md)
   * [Good Online Browsing Practices](safe-computing/good-online-browsing-practices-safe-browsing.md)
@@ -48,7 +47,8 @@
   * [Level 2](recommended-wallet-setups/level-2.md)
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
-* [References](references.md)
-* [Future Plans](coming-soon.md)
 * [Appendix](appendix.md)
+  * [Using EthOffline to sign Ethereum Transactions on an Offline Computer](offline-computing/using-ethoffline-to-sign-ethereum-transactions-on-an-offline-computer.md)
+  * [References](references.md)
+  * [Future Plans](coming-soon.md)
 
