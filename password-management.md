@@ -12,6 +12,6 @@ In this chapter, we will learn:
 
 - How to safely enter your password into a computer without fear of being eavesdropped
 
-- How to safely store your Bip39 seed phrase and passwords so that you don't have to worry about them being stolen
+- How to safely store your Bip39 seed phrase and password so that you don't have to worry about them being stolen
 
 In this book, we use the term "password" and "passphrase" interchangeably. For all practical purposes, they mean the same thing.
