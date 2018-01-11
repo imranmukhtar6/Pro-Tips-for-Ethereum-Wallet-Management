@@ -3,7 +3,7 @@
 
 Money is nice and all, but what people tend to really enjoy is having *control* over that money. "Wallets" allows you to prove your ownership of cryptocurrency on the blockchain and to transfer ownership of that cryptocurrency off to other people. That's awesome...
 
-...until someone else gains control over your wallet and then transfer ownership of the cryptocurrency over to themselves.
+...until someone else gains control over your wallet and then transfer ownership of all the cryptocurrency in that wallet over to themselves.
 
 In this section, we will learn:
 
