@@ -6,7 +6,7 @@
 
 - Use a computer that is brand new. Though you are most likely booting Tails from a USB Offline, a clean or blank/formatted computer can go a long way.
 
-- Do not use a wireless mouse or keyboard (those  signals are not encrypted).
+- Do not use a wireless mouse or keyboard (those signals are not encrypted).
 
 - Use fresh SD cards (not USBs or MicroSDs) for data storage and transfer into and out of your safe offline environment. They are usually simpler than USBs and you have less of a chance of being infected by malware on these chips (however, it could/and still is possible, so be careful).
 
