@@ -48,7 +48,7 @@
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
 * [Appendix](appendix.md)
-  * [Using EthOffline to sign Ethereum Transactions on an Offline Computer](offline-computing/using-ethoffline-to-sign-ethereum-transactions-on-an-offline-computer.md)
-  * [References](references.md)
-  * [Future Plans](coming-soon.md)
+  * [Using EthOffline to sign Ethereum Transactions on an Offline Computer](appendix/using-ethoffline-to-sign-ethereum-transactions-on-an-offline-computer.md)
+  * [References](appendix/references.md)
+  * [Future Plans](appendix/coming-soon.md)
 
