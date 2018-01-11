@@ -8,7 +8,7 @@ In general, you just want to copy data once from your online machines. Creating 
 
 #### Transfer Steps:
 
-1. Plug In fresh SD card to online computer.
+1. Plug in fresh SD card to online computer.
 
 2. Copy tools/data/files onto the SD card.
 
