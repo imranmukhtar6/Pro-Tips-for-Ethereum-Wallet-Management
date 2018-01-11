@@ -12,6 +12,8 @@ If you are a novice user of Ethereum or are not storing a significant amount of 
 
 However, if you want to go deeper and empower yourself with some great tools that are available in the space, please keep reading, practicing and using this knowledge within reason for your own setup.
 
+At the end of the book, we will show some recommended wallet setups for you to use, as well as ways of determining what "wallet setup" would be right enough for you.
+
 **Comments**
 
 1 - See discussion in Private Google Doc. Should we keep this phrase in this book?
