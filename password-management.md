@@ -2,7 +2,7 @@
 
 ![](/assets/internet-1952019_1280.jpg)
 
-As we saw in the previous chapter, we can gain access to our wallet's private key simply by knowing our Bip39 seedphrase and password. While this is very handy for us, this also means that anyone can gain access to our wallet's private key if they know ouyr Bip39 seedphrase and password.
+As we saw in the previous chapter, we can gain access to our wallet's private key simply by knowing our Bip39 seed and password. While this is very handy for us, this also means that anyone can gain access to our wallet's private key if they know our Bip39 seed and password.
 
 In this chapter, we will learn:
 
