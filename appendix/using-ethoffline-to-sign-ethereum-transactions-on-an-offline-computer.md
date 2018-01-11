@@ -1,6 +1,7 @@
 ### Using EthOffline to sign Ethereum Transactions on an Offline Computer
 
-In the "Risks of Hardware Wallets" section, we discussed the development of air-gapped hardware wallets and their use of QR codes to allow users to interact with the blockchain. These instructions are provided as a way of familiarizing yourself with how this process works (though they assume you're using an offline computer instead of a hardware wallet).
+**Note**: In the "Risks of Hardware Wallets" section, we discussed the development of air-gapped hardware wallets and their use of QR codes to allow users to interact with the blockchain. The instructions below are provided as a way of familiarizing yourself with how this process works (though they assume you're using an offline computer instead of a hardware wallet).
+<hr>
 
 It is possible to sign Ethereum transactions offline using EthOffline, and to then broadcast those transactions to the blockchain by using EthScanner. This approach allows you to conduct transactions securely without ever allowing your private key to leave your offline computer.
 
