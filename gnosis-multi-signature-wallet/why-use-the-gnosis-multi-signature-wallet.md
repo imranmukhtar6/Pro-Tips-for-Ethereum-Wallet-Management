@@ -8,7 +8,7 @@
 
 - The wallet has been audited and bug bountied by the community on multiple occasions.
 
-- Many ICOs prefer this 
+- Many ICOs prefer using this wallet over other alternatives due to its simplicity and the fact that it hasn't been hacked...yet.
 
 - It can be used with a Daily Limit - if most of your keys are lost, you can still drain your funds out slowly every day with a single account.
 
