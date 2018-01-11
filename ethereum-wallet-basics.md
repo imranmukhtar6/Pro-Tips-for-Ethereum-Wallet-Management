@@ -6,5 +6,5 @@ Money is nice and all, but what people tend to really enjoy is having *control* 
 In this section, we will learn:
 
 - What exactly is an Ethereum Wallet
-- How to generate a wallet, using a Bip39 seedphrase
+- How to generate a wallet, using a Bip39 seedphrase and a passphrase
 - How to use the Ian Coleman's Bip39 Tool to "recover" access to a wallet
