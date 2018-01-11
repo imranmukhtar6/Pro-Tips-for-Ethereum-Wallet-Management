@@ -8,4 +8,8 @@ In this chapter, we will learn:
 
 - How you should treat "exchanges" (places where you can buy and sell cryptocurrencies) and "hot wallets" (wallets that are connected to the Internet)
 
-- How to browse 
+- How you should browse websites
+
+- Some interesting security tips
+
+- My preferences for computing hardware
