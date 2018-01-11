@@ -50,4 +50,5 @@
   * [Level 4](recommended-wallet-setups/level-4.md)
 * [References](references.md)
 * [Future Plans](coming-soon.md)
+* [Appendix](appendix.md)
 
