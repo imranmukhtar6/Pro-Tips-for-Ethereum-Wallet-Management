@@ -2,7 +2,7 @@
 
 ![](/assets/folded-314992_1280.jpg)
 
-While none of the material here is required for you to read, it may still be of use.
+While none of the material here is required reading, it may still be useful to pursue if you have the time and are curious.
 
 In this chapter, you will:
 
