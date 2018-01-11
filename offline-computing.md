@@ -10,4 +10,4 @@ In this chapter, we will learn:
 
 - Why I prefer using SD Cards over USB Keys when transferring information between our "offline computer" and our normal "online computer"
 
-- How to safely transfer data from 'insecure' SD cards that may be exposed to the Internet over to 'secure' SD cards
+- How to safely transfer data from 'insecure' SD cards that may be exposed an "online computer" over to 'secure' SD cards that only interacted with the offline computer
