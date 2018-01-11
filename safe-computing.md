@@ -8,4 +8,4 @@ In this chapter, we will learn:
 
 - How you should treat "exchanges" (places where you can buy and sell cryptocurrencies) and "hot wallets" (wallets that are connected to the Internet)
 
-- How to make your computer safe (how to engage in "safe browsing", security tips from the MyEtherWallet, and my personal preferences for computing hardware)
+- How to make your computer safe ("safe browsing", security tips from the MyEtherWallet, and my personal preferences for computing hardware)
