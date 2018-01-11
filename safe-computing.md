@@ -2,9 +2,7 @@
 
 ![](/assets/network-2081171__480.jpg)
 
-The Internet is a useful place, filled to the brim with valuable content to consume, interesting connections with people from all around the world, and incredible services (centralized and decentralized) for you to take advantage of.
-
-But you should *never* let your guard down here in this Wonderland. When you are connected to the Internet, there is always the risk that someone can gain access to your machine. Safety is paramount here.
+Whenever you are connected to the Internet, there is always the risk that someone can gain access to your machine, either through hacking or social manipulation. Trust no one.
 
 In this chapter, we will learn:
 
