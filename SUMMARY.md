@@ -49,4 +49,5 @@
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
 * [References](references.md)
+* [Coming Soon](coming-soon.md)
 
