@@ -1,5 +1,9 @@
 ## Password/Passphrase Management
 
-![](https://cdn.pixabay.com/photo/2017/01/04/13/42/internet-1952019_1280.jpg)
+![](/assets/internet-1952019_1280.jpg)
 
-If you control the 
+As we saw in the previous chapter, we can easily "recover" our wallet's private key simply by knowing the Bip39 seedphrase and the password. This means that
+
+In this chapter, we will learn:
+- the processes 
+
