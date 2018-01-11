@@ -2,7 +2,7 @@
 
 ![](/assets/icon-wallet-big.svg)
 
-Most of the time, to gain access to a wallet, you need only a single private key. The Gnosis Multi-Signature Wallet requires multiple private keys, making it harder for someone to compromise.
+Most of the time, to gain access to a wallet, you need only a single private key. The Gnosis Multi-Signature Wallet requires multiple private keys, making it harder for someone to fully compromise the wallet and gain control over its funds.
 
 In this chapter, we will learn:
 
