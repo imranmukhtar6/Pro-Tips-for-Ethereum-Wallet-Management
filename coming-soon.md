@@ -1,4 +1,4 @@
-## Coming Soon
+## Future Plans
 
 Cryptocurrency is a rapidly evolving field with its own nuances and special cases that we need to account for. Here are our future plans for expanding this book:
 
