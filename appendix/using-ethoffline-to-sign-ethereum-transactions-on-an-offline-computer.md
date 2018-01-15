@@ -2,7 +2,7 @@
 
 **Preface**: In ["Risks of Hardware Wallets"](hardware-wallets/risks-of-hardware-wallets.md), we discussed the development of air-gapped hardware wallets and their use of QR codes to allow users to interact with the blockchain. In this section, we provide instructions of how to use this same "QR scanning" process when using an offline computer. 
 
-These instructions are provided only as additional learning tool, and is not necessary as a requirement for learning.
+These instructions are provided only as an additional learning tool, and is not necessary as a requirement for learning.
 <hr>
 
 It is possible to sign Ethereum transactions offline using EthOffline, and to then broadcast those transactions to the blockchain by using EthScanner. This approach allows you to conduct transactions securely without ever allowing your private key to leave your offline computer.
