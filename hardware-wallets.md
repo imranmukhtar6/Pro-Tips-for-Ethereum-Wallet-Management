@@ -11,4 +11,4 @@ In this chapter, you will learn:
 
 - What are the risk associated with using them
 
- - Some recommended tips when using hardware wallets 
+- Some recommended tips when using hardware wallets 
