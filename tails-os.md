@@ -7,8 +7,8 @@ In this chapter, we will learn:
 
 - Why I recommend using Tails OS for creating and manging your wallets
 
-- How to install Tails OS, and why you need to validate that you are installing the correct version of "Tails OS"
+- How to install Tails OS, and why you need to validate your installation of "Tails OS"
 
-- How to use Tails OS to safely generate your Bip39 seed and passphrase ina n "offline" environment
+- How to use Tails OS to safely generate your Bip39 seed and passphrase in an "offline" environment
 
 - Some "final thoughts" on using Tails OS
