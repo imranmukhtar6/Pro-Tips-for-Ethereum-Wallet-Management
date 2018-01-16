@@ -22,8 +22,13 @@
 
 ### Further Reading:
 http://bunniefoo.com/bunnie/sdcard-30c3-pub.pdf
+
 https://techcrunch.com/2013/12/29/sd-cards-arent-as-secure-as-we-think/
+
 https://www.dpreview.com/forums/thread/2006174
+
 https://www.infosecurity-magazine.com/news/the-ubiquitous-sd-cards-can-be-hacked-to-deliver/ 
+
 https://www.bunniestudios.com/blog/?p=3554
+
 https://www.apotelyt.com/photo-memory/sd-card-reliability
