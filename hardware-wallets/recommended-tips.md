@@ -8,6 +8,6 @@
 
 - Always appropriately and with the utmost caution backup your seed phrases during the initial setup phase. Please see <a href="/password-management/storing-seeds-and-passwords.md">"Storing Seeds and Passphrases"</a>.
 
-- For advanced users: try setting up your hardware wallet with multiple pins and Bip39 passphrases, this allows you to have multiple accounts on a single device and enables plausible deniability (see wiki). We use these advanced settings for our harder recommended wallet setups, later on in the book.
+- For advanced users: try setting up your hardware wallet with multiple pins and Bip39 passphrases, this allows you to have multiple accounts on a single device and enables [plausible deniability](https://en.wikipedia.org/Plausible_deniablity). We use these advanced settings for our harder recommended wallet setups, later on in the book.
 
 - Do your research on the manufacturer and devices you are buying (make sure you know what you are getting and where you should/can go if you have problems).
