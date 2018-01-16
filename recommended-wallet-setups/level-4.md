@@ -8,7 +8,7 @@
  
  3. Setup 5 *Level 2* software or hardware wallets. Record those 5 account addresses offline.
  
- 4. Boot your Online Computer<sup>1</sup>.
+ 4. Boot your Online Computer.
  
  5. Open https://wallet.gnosis.pm/ in a secured browser.
  
@@ -31,6 +31,3 @@
  13. Attempt a 3-signature withdrawal from the multi-signature wallet
  
  14. Now you can use that multi-signature wallet as your cold-store wallet.
-
-** Footnotes **
-1 - Step 4 was included in Level 3, but it seems that it would be accurate for Level 4. Level 3 already mentions you using an Online Computer, while Level 4 appears to require a transition from your Offline Computer to your Online Computer.
