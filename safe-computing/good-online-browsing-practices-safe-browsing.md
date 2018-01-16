@@ -35,5 +35,7 @@
 Here are some more guides on safe web browsing:
 
 - https://www.veracode.com/blog/2013/01/tips-for-secure-web-browsing-cybersecurity-101
+
 - https://heimdalsecurity.com/blog/ultimate-guide-secure-online-browsing/
+
 - https://www.webroot.com/us/en/home/resources/articles/pc-security/online-activities-internet-security
