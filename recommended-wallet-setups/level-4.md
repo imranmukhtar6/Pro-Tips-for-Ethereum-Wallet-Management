@@ -12,7 +12,7 @@
  
  5. Open https://wallet.gnosis.pm/ in a secured browser.
  
- 6. Use your Ledger Nano S to activate the wallet dApp
+ 6. Use your Ledger Nano S to activate the wallet dApp.
  
  7. Select “new”.
  

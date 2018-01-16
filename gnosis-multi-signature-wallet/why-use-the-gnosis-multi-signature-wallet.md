@@ -18,7 +18,9 @@
 
 - Finally, Gnosis Team and ConsenSys does persistent maintenance work as well.
 
-- Be careful about vulnerabilities in multi-signature wallets that hasn't yet been discovered. The Parity wallet is one such example - a multi-signature wallet that was trusted by the community right up until [it was hacked in July 2017](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7) (causing people to lose  over 150,000 ETH). The programmers hastily pushed up a bug fix, but that bug fix created a new vulnerability that led to [another hack in November 2017](https://hackernoon.com/parity-wallet-hack-2-electric-boogaloo-e493f2365303) (causing people to lose ~513,000 ETH).
+- Be careful about vulnerabilities in multi-signature wallets that hasn't yet been discovered. The Parity wallet is one such example - a multi-signature wallet that was trusted by the community right up until [its "smart contract" was hacked in July 2017](https://blog.zeppelin.solutions/on-the-parity-wallet-multisig-hack-405a8c12e8f7) (causing people to lose  over 150,000 ETH). The programmers hastily pushed up a new "smart contract", but that contract had a new vulnerability that led to [another hack in November 2017](https://hackernoon.com/parity-wallet-hack-2-electric-boogaloo-e493f2365303) (causing people to lose ~513,000 ETH).
+
+- In addition, to use the Gnosis Multi-Signature Wallet, you need to visit https://wallet.gnosis.pm/. That website could also be compromised.
 
 ** Comments **
 The private Google Docs recommends adding the trade-offs when using the Wallet. These trade-offs could be mentioned in this page.
