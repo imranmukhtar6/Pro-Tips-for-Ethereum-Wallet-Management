@@ -22,7 +22,7 @@
 
 - Use the same Tails USB: Only use the offline computer to boot into the same Tails USB offline. Don't plug that Tails USB into any other computer or device.
 
-- The only data transfer device that should enter the computer are SD cards While highly unlikely, the SD card readers can be infected with malware. So do be careful with these SD cards.
+- The only data transfer device that should enter the computer are SD cards. While highly unlikely, the SD card readers can be infected with malware. So do be careful with these SD cards.
 
 - Make sure you use the Tails Installer on a Mac or Linux machine to write the Tails OS. Windows is generally a mess of potential malware vulnerabilities and can potentially write malware to your USB stick or reader firmware or SD card reader firmware.
 
