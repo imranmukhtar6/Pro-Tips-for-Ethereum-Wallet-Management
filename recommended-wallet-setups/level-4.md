@@ -28,6 +28,6 @@
 
   12. Once all accounts successfully have withdrawn a small amount of funds from the wallet, deposit an amount slightly larger than the Daily Limit.
   
- 13. Attempt a 3-signature withdrawal from the multi-signature wallet
+ 13. Attempt a 3-signature withdrawal from the multi-signature wallet.
  
  14. Now you can use that multi-signature wallet as your cold-store wallet.
