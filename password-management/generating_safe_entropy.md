@@ -16,14 +16,23 @@ In his Bip39 tool, Ian Coleman describes good entropy generation and his tools u
 
 Use a combination of any or all to generate your own source of entropy:
 - Using KeePassX built-in password generator (with all entropy settings enabled, and the length set to maximum).
+
 - Rolling dice, flipping a coin and recording those numbers.
+
   - According to Christian Lundkvist, if you roll a set of 5 dice 10 times, you will get more than 128 bits of entropy, which should be sufficient for generating seeds/private keys.
+<p></p>
 - Keyboard Smashing. Despite what Ian Coleman said, keyboard smashing is fine when you combine it with other safe methods (like rolling dice). There are two ways to do keyboard smashing:
- - Random physical keyboard smashing.
-   - Remember to use SHIFT randomly for some uppercase and special characters.
+
+  - Random physical keyboard smashing.
+ 
+     - Remember to use SHIFT randomly for some uppercase and special characters.
+   
    - Please don't break your keyboard.
- - Mouse smashing with a virtual keyboard, like the Florence Virtual Keyboard in Tails OS.
-   - To access the virtual keyword in Tails OS, click the keyboard icon on top of the screen.
+
+  - Mouse smashing with a virtual keyboard, like the Florence Virtual Keyboard in Tails OS.
+
+      - To access the virtual keyword in Tails OS, click the keyboard icon on top of the screen.
+<p></p>
 - You can also try using the Unix system entropy generation `/dev/urandom` by running this script in a command line terminal (in Tails OS, you can access Terminal by Applications -> Favorites -> Terminal).
 
 ```
