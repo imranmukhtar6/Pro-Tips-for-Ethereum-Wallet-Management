@@ -26,8 +26,8 @@ Use a combination of any or all to generate your own source of entropy:
   - Random physical keyboard smashing.
  
      - Remember to use SHIFT randomly for some uppercase and special characters.
-   
-   - Please don't break your keyboard.
+     
+     - Please don't break your keyboard.
 
   - Mouse smashing with a virtual keyboard, like the Florence Virtual Keyboard in Tails OS.
 
