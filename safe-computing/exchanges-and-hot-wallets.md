@@ -2,7 +2,7 @@
 
 - Only keep an amount of ether in exchanges or experimental/hot wallets<sup>1</sup> that you are willing to lose. It is generally hard for the community to independently verify their security, release and update practices and thus you should remain extremely skeptical of all online wallets, exchanges and technologies.
 
-- If you want to interact with these, constantly changing, technologies like exchanges or mobile wallets, make sure to check with the Ethereum community to see what the situation is, their reputation etc. Then make a test transaction to check the accounting functionality is working properly, before sending larger amounts.
+- If you want to interact with these constantly-changing  technologies like exchanges or mobile wallets, make sure to check with the Ethereum community to see what the situation is, what is their reputation, etc. Then make a test transaction to check the accounting functionality is working properly, before sending larger amounts.
 
 - Make small test transactions. Test transactions are great ways to make sure the software is visibly functioning and working before going through with large transfers.
 
