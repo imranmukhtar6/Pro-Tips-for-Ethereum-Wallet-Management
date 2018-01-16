@@ -5,7 +5,9 @@ There are many security and community wide attack vectors that can happen after 
 1\. I’m listing a specific set of recommended software tools and hardware, all of which can be spoofed, replaced or poisoned with malware. Before going ahead with any of all of these recommendations:
 
  - Double check links.
+ 
  - Check with the community and friends on reddit or the forums.
+ 
  - Validate that the software you downloaded is indeed coming from official sources by comparing the "signature" of the software with the "signature" posted by official sources. Two programs that can help verify signatures are [```sha256sum```](https://help.ubuntu.com/community/HowToSHA256Sum) and [```GPG```](https://en.wikipedia.org/wiki/GNU_Privacy_Guard).
 
 2\. If everyone starts to follow these instructions, it organizes a single attack vector for hackers (they can/will focus in on these tools and approaches with spoofing or code poisoning).
