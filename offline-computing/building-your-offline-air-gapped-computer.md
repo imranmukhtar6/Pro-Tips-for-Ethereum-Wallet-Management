@@ -2,7 +2,7 @@
 
 - An "Offline Air-Gapped Computer" is a computer that is not connected to the Internet and is physically isolated from all other computers. These computers are considered incredibly secure, and are much harder to hack than other computers  (for more information, please read [this article by Wired](https://www.wired.com/2014/12/hacker-lexicon-air-gap/)).
 
-- Many of us don't have the funds to go and purchase a new (straight from the factory)  computer to use solely as an offline air-gapped computer for Ethereum...but you can refurbish an old or used computer as well.
+- Many of us don't have the funds to go and purchase a new (straight from the factory) computer to use solely as an offline air-gapped computer for Ethereum...but you can refurbish an old or used computer as well.
 
 - If you can, remove the networking/wifi card from the old/new PC or laptop.
 
