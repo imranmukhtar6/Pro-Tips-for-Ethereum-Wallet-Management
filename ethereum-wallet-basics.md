@@ -1,7 +1,7 @@
 ## Ethereum Wallet Basics 
 ![](/assets/wallet-2125548_1280.jpg)
 
-Money is nice and all, but what people tend to really enjoy is having *control* over that money. Wallets store your cryptocurrency, and whoever controls the wallet gets to control where all the cryptocurrency goes.
+Money is nice and all, but what people tend to really enjoy is having *control* over their money. Wallets store your cryptocurrency, and whoever controls your wallet controls where it goes.
 
 In this section, we will learn:
 
