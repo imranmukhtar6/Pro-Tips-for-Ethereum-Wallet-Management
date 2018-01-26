@@ -6,7 +6,7 @@
  
  2. Boot Tails OS via USB on your Offline Computer.
  
- 3. Setup 5 *Level 2* software or hardware wallets. Record those 5 account addresses offline.
+ 3. Setup [5 *Level 2* software or hardware wallets](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/recommended-wallet-setups/level-2.html). Record those 5 account addresses offline.
  
  4. Boot your Online Computer.
  
