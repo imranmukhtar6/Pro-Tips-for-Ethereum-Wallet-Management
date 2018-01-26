@@ -69,7 +69,7 @@
  10\. Safely record and backup your seed and passphrase.
 <ul><li>I do not recommend recording on flash memory or SD, but if you do, make sure to encrypt this data before plugging in and saving on SD card.</li></ul>
 
- 11\. Copy first 5 addressed to a text document.
+ 11\. Copy first 5 addresses to a text document.
  
  12\. Plug in SD card, copy the text document onto the SD card, and then unplug SD card.
  
