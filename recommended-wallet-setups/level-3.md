@@ -4,7 +4,7 @@
 
  1\. Boot Tails OS via USB on your Normal Online Computer
  
- 2\. Setup 5 [*Level 1* software or hardware wallets](recommended-wallet-setups/level-3.md). Record those 5 account addresses offline.
+ 2\. Setup 5 [*Level 1* software or hardware wallets](recommended-wallet-setups/level-1.md). Record those 5 account addresses offline.
  
  3\. Boot your Online Computer.
  
