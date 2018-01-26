@@ -1,5 +1,7 @@
 ### Level 1
 
+This level is intended for more novice users of Ethereum. - people who have some funds and want to protect them better than leaving them in a Coinbase account.
+
 - Basic Hardware Wallet
 
  1\. Setup a single Ledger Nano S.
