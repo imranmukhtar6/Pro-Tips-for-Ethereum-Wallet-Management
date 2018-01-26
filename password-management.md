@@ -6,7 +6,7 @@ As we saw in the previous chapter, we can gain access to our wallet's private ke
 
 In this chapter, we will learn:
 
-- the processes of generating randomness to make your password harder for someone to brute-force
+- The processes of generating randomness to make your password harder for someone to brute-force
 
 - How to use the KeePassX database to generate and store your passwords
 
@@ -14,4 +14,4 @@ In this chapter, we will learn:
 
 - How to safely store your Bip39 seed phrase and password so that you don't have to worry about them being stolen
 
-In this book, we use the term "password" and "passphrase" interchangeably. For all practical purposes, they mean the same thing.
+**Note:** In this book, we use the term "password" and "passphrase" interchangeably. For all practical purposes, they mean the same thing.
