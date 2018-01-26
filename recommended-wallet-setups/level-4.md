@@ -1,5 +1,7 @@
 ### Level 4
 
+This level has very complex setup options, using both software/hardware wallets and a Gnosis Multi-Signature Wallet. This section is only recommended for expert users who are very technical or have a lot of funds to protect.
+
 - 3 of 5 Gnosis Multi-Signature Wallet, Using an "Offline Computer"
 
  1. Setup/boot your Air-Gapped Offline Computer.
