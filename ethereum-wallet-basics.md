@@ -7,6 +7,6 @@ In this section, we will learn:
 
 - The technical details of an Ethereum Wallet
 
-- The process of generating a wallet, using a Bip39 seedphrase and a passphrase
+- The process of generating a wallet (or Ethereum accounts), using a Bip39 seedphrase and a passphrase
 
 - How to use the Ian Coleman's Bip39 Tool to "recover" access to a wallet
