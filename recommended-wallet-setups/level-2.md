@@ -1,6 +1,6 @@
 ### Level 2
 
-This section deals with setting up 
+This section deals with using either a hardware wallet or an offline computer to protect your funds. These instructions are geared towards an intermediate user.
 
 - Complex Hardware Wallet (Air-Gapped Setup with Bip39 Passphrase)
 
