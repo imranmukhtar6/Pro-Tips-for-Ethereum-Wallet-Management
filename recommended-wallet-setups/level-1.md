@@ -11,7 +11,7 @@ This level is intended for more novice users of Ethereum --- people who have som
 #### Basic Software Wallet with MyEtherWallet
  1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
  
- 2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh SD card
+ 2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
  
  3\. Shutdown/boot into Tails OS on USB
  
@@ -19,7 +19,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  5\. Copy MEW off the SD Card into the “Tor Browser” folder, open the dist folder
  
- 6\. Unplug SD card
+ 6\. Unplug SD card.
  
  7\. Right-click `index.html` -> “Open with Tor Browser”
  
