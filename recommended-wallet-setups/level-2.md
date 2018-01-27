@@ -2,7 +2,7 @@
 
 This level requires the use of either a hardware wallet or an offline computer. These setup instructions are geared towards an intermediate user who is familiar with the Ethereum ecosystem.
 
-- Complex Hardware Wallet (Air-Gapped Setup with Bip39 Passphrase)
+#### Complex Hardware Wallet (Air-Gapped Setup with Bip39 Passphrase)
 
  1\. Setup a single Ledger Nano S. Plug into a plug not computer when creating seed/accounts.
  
@@ -22,7 +22,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  9\. Verify the accounts you recorded are the same as the ones from the newly restored hardware wallet.
  
-- Basic Offline Air-Gapped Software Wallet with MyEtherWallet
+#### Basic Offline Air-Gapped Software Wallet with MyEtherWallet
 
  1\. Download/Setup Tails 3.0 OS on a USB.
  
@@ -48,7 +48,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  12\. Shutdown Tails.
  
-- Basic Offline Air-Gapped Software Wallet with Ian Coleman’s Bip39 Tool
+#### Basic Offline Air-Gapped Software Wallet with Ian Coleman’s Bip39 Tool
 
   1\. Download/Setup Tails 3.0 OS on a USB.
   
