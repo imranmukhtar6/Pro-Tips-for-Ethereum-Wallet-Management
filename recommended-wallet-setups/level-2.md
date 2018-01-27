@@ -1,6 +1,6 @@
 ### Level 2
 
-This section deals with using either a hardware wallet or an offline computer to protect your funds. These instructions are geared towards an intermediate user, or a novice user who is willing to learn.
+This level requires the use of either a hardware wallet or an offline computer. These setup instructions are geared towards an intermediate user who is familiar with the Ethereum ecosystem.
 
 - Complex Hardware Wallet (Air-Gapped Setup with Bip39 Passphrase)
 
