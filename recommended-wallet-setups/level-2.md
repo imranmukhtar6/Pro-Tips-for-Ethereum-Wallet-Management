@@ -12,7 +12,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  4\. Enable Pin with Bip39 Passphrase (generate passphrase offline with [KeePassX](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/password-management/using-keepassx-to-generate-and-store-secure-passphrases.html)).
  
- 5\. Backup and encrypt passphrase with KeePassX database on SD Card.
+ 5\. Backup and encrypt passphrase with KeePassX database on a [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
  
  6\. Safely backup and record your seed, passphrase and accounts.
  
@@ -22,13 +22,13 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  9\. Verify the accounts you recorded are the same as the ones from the newly restored hardware wallet.
  
-#### Basic Offline Air-Gapped Software Wallet with MyEtherWallet
+#### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with MyEtherWallet
 
- 1\. Download/Setup Tails 3.0 OS on a USB.
+ 1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
  
- 2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh SD card.
+ 2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
  
- 3\. Setup an Offline Air-Gapped Computer.
+ 3\. Setup an [Offline Air-Gapped Computer](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html).
  
  4\. Shutdown/boot into Tails OS on USB on the Offline Air-Gapped Computer.
  

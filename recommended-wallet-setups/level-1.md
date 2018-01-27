@@ -13,7 +13,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
  
- 3\. Shutdown/boot into Tails OS on USB
+ 3\. Shutdown/boot into Tails OS on USB.
  
  4\. Click “+ (plus sign) -> Network Settings -> Disable All Network Connections -> Add -> Start Tails”
  
