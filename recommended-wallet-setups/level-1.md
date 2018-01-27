@@ -8,7 +8,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  2\. Safely backup and record seeds.
 
-- Basic Software Wallet with MyEtherWallet
+### Basic Software Wallet with MyEtherWallet
  1\. Download/Setup Tails 3.0 OS on a USB.
  
  2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh SD card
