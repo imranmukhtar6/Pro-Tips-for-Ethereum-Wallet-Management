@@ -48,13 +48,13 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  12\. Shutdown Tails.
  
-#### Basic Offline Air-Gapped Software Wallet with Ian Coleman’s Bip39 Tool
+#### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html)
 
-  1\. Download/Setup Tails 3.0 OS on a USB.
+  1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
   
-  2\. Download/unzip/copy Ian Coleman's Bip39 Tool onto a fresh SD card.
+  2\. Download/unzip/copy [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html) onto a fresh [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
   
- 3\. Setup an Offline Air-Gapped Computer.
+ 3\. Setup an [Offline Air-Gapped Computer](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html).
  
  4\. Shutdown/boot into Tails OS on USB on your Air-Gapped Offline Computer.
  
