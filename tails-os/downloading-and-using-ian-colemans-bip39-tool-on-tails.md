@@ -21,7 +21,7 @@ Browser” folder.
 ### Validating Ian Coleman’s Bip39 Tool
 1. Go to Ian Coleman's Bip39 tool's Github page (link: https://github.com/iancoleman/bip39/releases).
 
-2. Go to releases and then download the latest version's .html file<sup>1</sup>.
+2. Go to releases and then download the latest version's .html file.
 
 3. In Linux or Tails, `cd ./path/to/bip39-standalone.html` then run `sha256sum ./bip39-standalone.html`.
 
@@ -32,7 +32,3 @@ Browser” folder.
 6. If all hashes match up, you have the right file.
 
 7. (Optional) On a phone or separate connection, check to see if the Github hash and Twitter hash all are the same. Having multiple points of reference from multiple connections are a way to validate the tools integrity (GPG and Bittorrent are also good methods if available).
-
-**Footnotes**
-
-1 - The first section (Downloading and Using) states that you should download straight from the website, while the second section (Validating) states that you should download from the Github page. Which advice should we prefer? Or should we download from multiple sources, in case one of them gets compromised?
