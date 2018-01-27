@@ -4,7 +4,7 @@ You may want to transfer data between sensitive and nonsensitive SD cards. This 
 
 Note that this does not protect against SD card reader malware. It is purely just to create some distance between cards that will touch your Air-Gapped machine and your online day-to-day computer.
 
-In general, you just want to copy data once from your online machines. Creating any passing of data off and on from the air-gapped machine must be done with great caution<sup>1</sup>.
+In general, you just want to copy data once from your online machines. Creating any passing of data off and on from the air-gapped machine must be done with great caution.
 
 #### Transfer Steps:
 
@@ -23,6 +23,3 @@ In general, you just want to copy data once from your online machines. Creating 
 7. Safely transfer files onto the secure SD card.
 
 8. Plug in SD card to Air-Gapped machine.
-
-**Footnotes**
-1 - It is unclear what this sentence means. Can you help me understand what you mean by this?
