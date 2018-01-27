@@ -1,5 +1,7 @@
 ### Level 2
 
+This section deals with setting up 
+
 - Complex Hardware Wallet (Air-Gapped Setup with Bip39 Passphrase)
 
  1\. Setup a single Ledger Nano S. Plug into a plug not computer when creating seed/accounts.
