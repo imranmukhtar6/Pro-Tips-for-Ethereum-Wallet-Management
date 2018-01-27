@@ -25,8 +25,8 @@ This level requires the use of five basic software/hardware wallets, and a [Gnos
  10\. Test a small `submitTransaction` transaction withdrawal with all 5 accounts, with the destination set to the account used.
  - By following this withdrawal process, hackers can see that you have potentially read this article and are following these instructions.
 <p></p>
-
- 11\. Once all accounts successfully have withdrawn a small amount of funds from the wallet, deposit an amount slightly larger than the Daily Limit.
+ 
+11\. Once all accounts successfully have withdrawn a small amount of funds from the wallet, deposit an amount slightly larger than the Daily Limit.
  
  12\. Attempt a 3-signature withdrawal from the multi-signature wallet
  
