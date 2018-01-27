@@ -73,7 +73,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
 
  11\. Copy first 5 addresses to a text document.
  
- 12\. Plug in SD card, copy the text document onto the SD card, and then unplug SD card.
+ 12\. Plug in SD card, copy the text document onto the SD card, and then unplug the SD card.
  
  13\. Shutdown and then reboot into Tails Offline.
  
