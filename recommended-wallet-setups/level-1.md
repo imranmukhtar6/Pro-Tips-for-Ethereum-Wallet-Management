@@ -29,7 +29,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  10\. Shutdown Tails.
 
-#### Basic Software Wallet with Ian Coleman’s Bip39 Tool
+#### Basic Software Wallet with [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html)
 
  1\. Download/Setup Tails 3.0 OS on a USB.
  
