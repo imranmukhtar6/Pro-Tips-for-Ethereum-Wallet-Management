@@ -1,6 +1,6 @@
 ### Level 4
 
-This level has very complex setup options, using Level 2 software/hardware wallets, an offline computer, and a Gnosis Multi-Signature Wallet. This section is only recommended for expert users who are very technical or have a lot of funds to protect.
+This level has very complex setup options, using advanced software/hardware wallets, an offline computer, and a Gnosis Multi-Signature Wallet. This section is only recommended for expert users who are very technical or have a lot of funds to protect.
 
 - 3 of 5 Gnosis Multi-Signature Wallet, Using an "Offline Computer"
 
