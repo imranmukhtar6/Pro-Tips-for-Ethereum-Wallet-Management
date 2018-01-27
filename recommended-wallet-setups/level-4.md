@@ -1,12 +1,12 @@
 ### Level 4
 
-This level has very complex setup options, using advanced software/hardware wallets, an offline computer, and a Gnosis Multi-Signature Wallet. This section is only recommended for expert users who are very technical or have a lot of funds to protect.
+This level has very complex setup options, using advanced software/hardware wallets, an [offline computer](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html), and a [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html). This section is only recommended for expert users who are very technical or have a lot of funds to protect.
 
-#### 3 of 5 Gnosis Multi-Signature Wallet, Using an "Offline Computer"
+#### 3 of 5 [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html), Using an "Offline Computer"
 
-1. Setup/boot your Air-Gapped Offline Computer.
+1. Setup/boot your [Air-Gapped Offline Computer](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html).
  
-2. Boot Tails OS via USB on your Offline Computer.
+2. Boot [Tails OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html)  via USB on your Offline Computer.
  
 3. Setup [5 *Level 2* software or hardware wallets](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/recommended-wallet-setups/level-2.html). Record those 5 account addresses offline.
  
