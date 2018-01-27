@@ -14,4 +14,4 @@
 
 - Use Tails Online for browsing, unsafe surfing and file downloading. Remember not to have your secure or sensitive SD card chips inserted while doing this.
 
-- If you want to transfer data or software to one of your secure SD cards, please follow the instructions in "Safer Data Transfer Between Secure and Insecure SD Cards Offline".
+- If you want to transfer data or software to one of your secure SD cards, please follow the instructions in ["Safe Data Transfer Between Secure and Insecure SD Cards Offline"](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/safe-data-transfer-between-secure-and-insecure-sd-cards-offline.md).
