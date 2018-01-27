@@ -53,5 +53,4 @@
 * [Appendix](appendix.md)
   * [Using EthOffline to sign Ethereum Transactions on an Offline Computer](appendix/using-ethoffline-to-sign-ethereum-transactions-on-an-offline-computer.md)
   * [References](appendix/references.md)
-  * [Future Plans](appendix/coming-soon.md)
 
