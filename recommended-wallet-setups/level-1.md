@@ -2,14 +2,14 @@
 
 This level is intended for more novice users of Ethereum --- people who have some funds and want to protect them better than leaving them in a Coinbase account.
 
-#### Basic Hardware Wallet
+#### Basic [Hardware Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/hardware-wallets.html)
 
  1\. Setup a single Ledger Nano S.
  
  2\. Safely backup and record seeds.
 
-### Basic Software Wallet with MyEtherWallet
- 1\. Download/Setup Tails 3.0 OS on a USB.
+#### Basic Software Wallet with MyEtherWallet
+ 1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
  
  2\. Download/unzip/copy MyEtherWallet (MEW) onto a fresh SD card
  
