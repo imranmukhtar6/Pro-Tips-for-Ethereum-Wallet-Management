@@ -1,6 +1,6 @@
 ### Level 3
 
-This level requires the use of five software/hardware wallets, and a Gnosis Multi-Signature Wallet. This section is recommended for intermediate-to-expert users who are willing and able to take steps to secure their funds.
+This level requires the use of five software/hardware wallets, and a Gnosis Multi-Signature Wallet. This section is recommended for intermediate-to-expert users who are very technical or have a lot of funds to protect.
 
 - 3 of 5 Gnosis Multi-Signature Wallet, Using an "Online Computer" (that is a computer that *is* connected to the Internet)
 
