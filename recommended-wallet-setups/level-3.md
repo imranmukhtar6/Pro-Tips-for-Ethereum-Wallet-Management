@@ -1,10 +1,10 @@
 ### Level 3
 
-This level requires the use of five basic software/hardware wallets, and a Gnosis Multi-Signature Wallet. This section is recommended for intermediate-to-expert users who are willing to take the steps necessary to defend their money from theft.
+This level requires the use of five basic software/hardware wallets, and a [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html). This section is recommended for intermediate-to-expert users who are willing to take the steps necessary to reduce the likelihood of theft.
 
-#### 3 of 5 Gnosis Multi-Signature Wallet, Using an "Online Computer" (that is a computer that *is* connected to the Internet)
+#### 3 of 5 [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html), Using an "Online Computer" (that is a computer that *is* connected to the Internet)
 
- 1\. Boot Tails OS via USB on your Normal Online Computer
+ 1\. Boot [Tails OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) via USB on your Normal Online Computer.
  
  2\. Setup 5 [*Level 1* software or hardware wallets](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/recommended-wallet-setups/level-1.html). Record those 5 account addresses offline.
  
