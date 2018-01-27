@@ -79,4 +79,4 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  14\. Plug in the SD card, copy Bip39 tool off SD card into Tor Browser folder, and then right-click html file “Open with Tor Browser”.
  
- 15\. Re-enter your recorded bip39 seed and passphrase, and then check the addresses generated are the ones you recorded.
+ 15\. Re-enter your recorded Bip39 seed and passphrase, and then check the addresses generated are the ones you recorded.
