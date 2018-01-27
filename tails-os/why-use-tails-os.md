@@ -21,6 +21,6 @@ Tails OS is designed with privacy in mind, and security a close second. It is am
 
 - Comes equipped with default compression with strong encryption options, like .7z via AES (to use, simply right-click “Compress”.. .7z).
 
-- Contains enough browsing capability to run some basic HTML/JS offline Ethereum Tools
+- Contains enough browsing capability to run some basic HTML/JS offline Ethereum Tools.
 
 The Tails USB is also simple and cannot be written to once formatted when setup with the Tails Installer.
