@@ -33,7 +33,7 @@ This level is intended for more novice users of Ethereum --- people who have som
 
  1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
  
- 2\. Download/unzip/copy Ian Coleman's Bip39 Tool onto a fresh SD card.
+ 2\. Download/unzip/copy Ian Coleman's Bip39 Tool onto a fresh [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
  
  3\. Shutdown/boot into Tails OS on USB.
  
