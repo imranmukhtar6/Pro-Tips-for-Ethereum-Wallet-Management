@@ -2,7 +2,7 @@
 
 This level is intended for more novice users of Ethereum --- people who have some funds and want to protect them better than leaving them in a Coinbase account.
 
-- Basic Hardware Wallet
+#### Basic Hardware Wallet
 
  1\. Setup a single Ledger Nano S.
  
@@ -29,7 +29,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  10\. Shutdown Tails.
 
-- Basic Software Wallet with Ian Coleman’s Bip39 Tool
+#### Basic Software Wallet with Ian Coleman’s Bip39 Tool
 
  1\. Download/Setup Tails 3.0 OS on a USB.
  
