@@ -31,7 +31,7 @@ This level is intended for more novice users of Ethereum --- people who have som
 
 #### Basic Software Wallet with [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html)
 
- 1\. Download/Setup Tails 3.0 OS on a USB.
+ 1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
  
  2\. Download/unzip/copy Ian Coleman's Bip39 Tool onto a fresh SD card.
  
@@ -45,7 +45,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  7\. Select “Supply your own source of entropy” and then input very strong entropy.
  
- 8\. Generate your Bip39 passphrase with KeePassX.
+ 8\. Generate your Bip39 passphrase with [KeePassX](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/password-management/using-keepassx-to-generate-and-store-secure-passphrases.html).
  
  9\. Safely record and backup your seed and passphrase.
   <ul>
@@ -60,4 +60,4 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  13\. Plug in the SD card, copy Bip39 tool off SD card into Tor Browser folder, and then right-click html file “Open with Tor Browser”.
  
- 14\. Re-enter your recorded bip39 seed and passphrase, check the addresses generated are the ones you recorded
+ 14\. Re-enter your recorded Bip39 seed and passphrase, and check the addresses generated are the ones you recorded.
