@@ -10,7 +10,7 @@
 
 - Follow good browser practices while viewing and using exchanges.
 
-- Always use app-based 2-factor authentication  with exchanges (e.g. Authy<sup>2</sup>, Google Authenticator).
+- Always use app-based 2-factor authentication  with exchanges (e.g. Authy, Google Authenticator).
 
 - Always use the maximum amount of security/authentication available.
 
@@ -27,9 +27,3 @@ Many of the current available wallets have lost millions of dollars worth of fun
 4. [ChamberWallet](https://www.ethnews.com/potential-issue-reported---ethereum-chamber-wallet) (approx. 300+ ETH loss)
 
 5. [Quadriga](https://steemit.com/cryptocurrency/@barrydutton/breaking-the-biggest-canadian-coin-exchange-quadrigacx-loses-67-000-usdeth-due-to-coding-error-funds-locked-in-an-executable) (approx. 67000+ ETH loss)
-
-** Footnote **
-
-1 - Depending on the intended audience, it may be necessary to define what is a hot wallet, either here or earlier in the book. (We also mention the term "cold wallet" in the Recommended Wallet Setup as well.)
-
-2 - See the private Google Doc for suggested additions to this clause.
