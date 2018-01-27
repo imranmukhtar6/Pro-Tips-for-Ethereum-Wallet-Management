@@ -23,7 +23,7 @@ This level is intended for more novice users of Ethereum --- people who have som
  
  7\. Right-click `index.html` -> “Open with Tor Browser”
  
- 8\. Enter a strong passphrase, save the wallet file in Tor Browser folder, restore wallet with passphrase to get the address, and record the address in a text document.
+ 8\. Enter a [strong passphrase](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/password-management.html), save the wallet file in Tor Browser folder, restore wallet with passphrase to get the address, and record the address in a text document.
  
  9\. Plugin the SD card and copy the address text file and wallet backup onto SD card.
  
