@@ -47,6 +47,7 @@
   * [Level 2](recommended-wallet-setups/level-2.md)
   * [Level 3](recommended-wallet-setups/level-3.md)
   * [Level 4](recommended-wallet-setups/level-4.md)
+* [Request For Contributions](request-for-contributions.md)
 * [Estate Planning with Crypto-Currency \(Coming Soon\)](estate-planning-with-crypto-currency.md)
 * [Bugs, Hacks and other Attacks \(Coming Soon\)](bugs-hacks-and-other-attacks-coming-soon.md)
 * [Appendix](appendix.md)
