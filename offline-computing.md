@@ -6,7 +6,7 @@ The Internet is a scary place, filled to the brim with malware and hackers seeki
 
 In this chapter, we will learn:
 
-- How to build our very own "offline air-gapped computer",
+- How to build our very own "offline air-gapped computer"
 
 - Why I prefer using SD Cards over USB Keys when transferring information from our normal "online computer" over to our  "offline computer"
 

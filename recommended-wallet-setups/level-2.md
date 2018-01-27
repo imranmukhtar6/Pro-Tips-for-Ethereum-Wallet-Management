@@ -2,7 +2,7 @@
 
 This level requires the use of either a hardware wallet or an offline computer. These setup instructions are geared towards an intermediate user who is familiar with the Ethereum ecosystem.
 
-#### Complex Hardware Wallet (Air-Gapped Setup with Bip39 Passphrase)
+#### Complex [Hardware Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/hardware-wallets.html) Wallet ([Air-Gapped](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.md) Setup with Bip39 Passphrase)
 
  1\. Setup a single Ledger Nano S. Plug into a plug not computer when creating seed/accounts.
  
@@ -10,7 +10,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  3\. Enable Shuffle Pin and set the Timeout.
  
- 4\. Enable Pin with Bip39 Passphrase (generate passphrase offline with KeePassX).
+ 4\. Enable Pin with Bip39 Passphrase (generate passphrase offline with [KeePassX](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/password-management/using-keepassx-to-generate-and-store-secure-passphrases.html)).
  
  5\. Backup and encrypt passphrase with KeePassX database on SD Card.
  
