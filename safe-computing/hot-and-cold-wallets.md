@@ -2,9 +2,9 @@
 
 There are generally two kinds of wallet classifications in cryptocurrency (hot and cold wallets).
 
-Hot wallets are wallets that are are usually very accessible, but are less secure. Examples of hot wallets are Metamask, Ledger Nano S, and your Coinbase account.
+Hot wallets are wallets where funds are are usually very accessible and easy to use, but are less secure from threats. Examples of hot wallets are Metamask, Ledger Nano S, and accounts on exchanges (like Coinbase).
 
-Cold wallets are wallets that are not connected to the Internet. They are usually less accessible, but are more secure. Examples of cold wallets are Multi-Signature Wallets and private keys that you keep on Offline Computers.
+Cold wallets are wallets that are not connected to the Internet. They are usually less accessible to use, but are more secure. Examples of cold wallets are Multi-Signature Wallets and private keys that you keep on Offline Computers.
 
 While this may be confusing, some people use hot wallets in their cold-storage setup [insert joke about "warm" setup]. For example, you could use a Metamask account (hot wallet) to sign transactions from your Multi-Signature Wallet (cold wallet). It's up to you to decide what grade of cold-storage you are personally after.
 
