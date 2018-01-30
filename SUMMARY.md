@@ -27,6 +27,7 @@
   * [Why SD Cards over USB Keys](offline-computing/why-sd-cards-over-usb-keys.md)
   * [Safe Data Transfer Between Secure and Insecure SD Cards Offline](offline-computing/safe-data-transfer-between-secure-and-insecure-sd-cards-offline.md)
 * [Safe Computing](safe-computing.md)
+  * Hot and Cold Wallets
   * [Exchanges and Hot Wallets](safe-computing/exchanges-and-hot-wallets.md)
   * [Good Online Browsing Practices](safe-computing/good-online-browsing-practices-safe-browsing.md)
   * [Computing Tips](safe-computing/computing-tips.md)
