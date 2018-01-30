@@ -4,7 +4,7 @@ You may want to transfer data between sensitive and nonsensitive SD cards. This 
 
 Note that this does not protect against SD card reader malware. It is purely just to create some distance between cards that will touch your Air-Gapped machine and your online day-to-day computer.
 
-In general, you just want to copy data once from your online machines. Creating any passing of data off and on from the air-gapped machine must be done with great caution.
+Ideally, data should flow one-way (from your online machine to your offline machine). Data flowing the other way (from your offline machine to your online machine) is very dangerous as it could expose your secrets to the online machine in question. Any data transfer from the offline machine to the online machine needs to be done very cautiously.
 
 #### Transfer Steps:
 

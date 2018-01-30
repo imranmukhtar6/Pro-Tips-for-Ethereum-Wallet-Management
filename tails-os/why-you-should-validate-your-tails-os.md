@@ -1,4 +1,4 @@
-### Why You Should Validate your Tails OS
+### Validating your Tails OS
 
 The largest vulnerability of Tails is that it generally comes from a single source (i.e. the Tails webpage).
 
