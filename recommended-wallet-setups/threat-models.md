@@ -4,15 +4,22 @@ To defend yourself, you need to know what you're defending against. There's mult
 
 Examples of Common Threats:
  - Malware
+ 
  - Forgetting instructions
+ 
  - Improper key handling (i.e. giving a third-party site your private key)
+ 
  - Spoofing attacks (hackers impersonating a trusted website)
+ 
  - Spoofed devices (e.g. ordering a Ledger off amazon and having the phrase already pre-set by an attacker)
 
 Examples of Major Threats:
  - Fire
+ 
  - Flood
+ 
  - Burglary
+ 
  - File/hardware corruption
 
 Figure out what you are most afraid of, and then design your wallet setup to ward off those fears.
