@@ -2,7 +2,7 @@
 
 This level requires the use of five basic software/hardware wallets, and a [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html). This section is recommended for intermediate-to-expert users who are willing to take the steps necessary to reduce the likelihood of theft.
 
-#### 3 of 5 [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html), Using an "Online Computer" (that is a computer that *is* connected to the Internet)
+#### 3 of 5 [Gnosis Multi-Signature Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/gnosis-multi-signature-wallet.html), Using an "Online Computer" (that is a computer that *is* connected to the Internet) 🌨
 
  1\. Boot [Tails OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) via USB on your Normal Online Computer.
  

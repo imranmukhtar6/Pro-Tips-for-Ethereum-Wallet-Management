@@ -16,4 +16,4 @@ I have written additional tips and instructions for each step for each setup. Cl
 
 5. [Tails OS](https://tails.boum.org/)
 
-Some wallet setups create "cold wallets", which are generally very safe to use. We'll indicate those setups with a ❄️ emoji.
+Some wallet setups create "cold wallets", which are generally very safe to use. We'll indicate those setups with a 🌨 emoji.

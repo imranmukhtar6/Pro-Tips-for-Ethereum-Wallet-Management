@@ -22,7 +22,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  9\. Verify the accounts you recorded are the same as the ones from the newly restored hardware wallet.
  
-#### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with MyEtherWallet
+#### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with MyEtherWallet 🌨
 
  1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
  
@@ -48,7 +48,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
  12\. Shutdown Tails.
  
-#### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html)
+#### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html) 🌨
 
 "Cold Wallet" Setup
 
