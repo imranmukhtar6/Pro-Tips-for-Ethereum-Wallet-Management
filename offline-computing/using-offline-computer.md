@@ -1,4 +1,4 @@
-### Using an Offline Computer
+### Using An Offline Computer
 
 - When generating a wallet on Tails Offline with a tool like Ian Coleman's Bip39, remember to use a room with little to no signal or Internet connect (basement is best).
 
