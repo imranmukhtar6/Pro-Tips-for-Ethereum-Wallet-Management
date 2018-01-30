@@ -28,4 +28,4 @@ As we increase the difficulty level, we are able to handle more and more of thes
 
 However, the higher difficulty levels are still vulnerable to threats of their own, such as forgetting instructions.
 
-If you chose a higher-level setup but put all your keys in the same location (thereby making the keys vulnerable to fire, flood, and burglary) or didn't make physical backups of your keys (thereby making the keys vulnerable to file/hardware corruption), than basically choosing that level is almost meaningless. You have to be prepared for a variety of different threats.
+If you chose a higher-level setup but put all your keys in the same location (thereby making the keys vulnerable to fire, flood, and burglary) or didn't make physical backups of your keys (thereby making the keys vulnerable to file/hardware corruption), then basically choosing that level is almost meaningless. You have to be prepared for a variety of different threats.
