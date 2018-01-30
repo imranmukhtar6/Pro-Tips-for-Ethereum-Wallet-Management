@@ -8,7 +8,7 @@ Major Threats: fire, flood, burglary, file/hardware corruption
 
 Figure out what you are most afraid of, and then design your wallet setup to ward off those fears.
 
-As we increase the difficulty level, we are able to handle more and more of these threats. For example, the Gnosis Multi-Sig Wallet protects against the possibility of you losing one of your private keys by having a policy of "key redundancy". If you have a valid key, you are allowed to withdraw a certain amount of funds from the wallet (based on a pre-specified "daily withdrawal" limit).
+As we increase the difficulty level, we are able to handle more and more of these threats. For example, the Gnosis Multi-Sig Wallet protects against the possibility of you losing one of your private keys by having a policy of "key redundancy". If you have a valid key, you are allowed to withdraw a certain amount of funds from the wallet every day (based on a pre-specified "daily withdrawal" limit).
 
 However, the higher difficulty levels are still vulnerable to threats of their own, such as forgetting instructions.
 
