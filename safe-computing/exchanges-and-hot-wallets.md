@@ -10,7 +10,8 @@
 
 - Follow good browser practices while viewing and using exchanges.
 
-- Always use app-based 2-factor authentication  with exchanges (e.g. Authy, Google Authenticator).
+- Always use app-based 2-factor authentication with exchanges (e.g. Authy, Google Authenticator). Some of these authentication applications are vulnerable to attack and has been vulnerable in the past (see [this Reddit thread about Authy](https://www.reddit.com/r/Bitcoin/comments/6f0hhb/coinbase_recommendation_migrate_from_authy_to
+)). In general, having 2-factor authentication is better than no two-factor at all. Still, certain forms like SMS are highly vulnerable to third-parties potentially listening in or hijacking your SIM cards (so stay vigilant).
 
 - Always use the maximum amount of security/authentication available.
 
