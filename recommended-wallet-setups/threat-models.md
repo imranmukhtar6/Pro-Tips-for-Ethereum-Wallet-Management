@@ -9,7 +9,7 @@ Examples of Common Threats:
  - Spoofing attacks (hackers impersonating a trusted website)
  - Spoofed devices (e.g. ordering a Ledger off amazon and having the phrase already pre-set by an attacker)
 
-Major Threats
+Major Threats:
  - Fire
  - Flood
  - Burglary
