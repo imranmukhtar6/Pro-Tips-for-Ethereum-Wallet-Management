@@ -23,7 +23,7 @@
   * [Generating Bip39 Phrases and Passcodes](tails-os/generating-bip39-phrases-and-passcodes.md)
   * [Final Thoughts on Tails](tails-os/final-thoughts-on-tails.md)
 * [Offline Computing](offline-computing.md)
-  * [Computing Tips](offline-computing/using-offline-computer.md)
+  * [Using An Offline Computer](offline-computing/using-offline-computer.md)
   * [Building Your Offline Air-Gapped Computer](offline-computing/building-your-offline-air-gapped-computer.md)
   * [Why SD Cards over USB Keys](offline-computing/why-sd-cards-over-usb-keys.md)
   * [Safe Data Transfer Between Secure and Insecure SD Cards Offline](offline-computing/safe-data-transfer-between-secure-and-insecure-sd-cards-offline.md)
