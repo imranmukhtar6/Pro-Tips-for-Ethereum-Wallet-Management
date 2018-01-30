@@ -50,6 +50,8 @@ This level requires the use of either a hardware wallet or an offline computer. 
  
 #### Basic [Offline Air-Gapped Software Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) with [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html)
 
+"Cold Wallet" Setup
+
   1\. Download/Setup [Tails 3.0 OS](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os.html) on a USB.
   
   2\. Download/unzip/copy [Ian Coleman’s Bip39 Tool](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/ethereum-wallet-basics/ian-colemans-bip39-tool.html) onto a fresh [SD card](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/why-sd-cards-over-usb-keys.html).
