@@ -44,6 +44,7 @@
   * [Making a Small Withdrawal from Your Gnosis Multi-Signature Wallet with Ledger S Nano](gnosis-multi-signature-wallet/making-a-small-withdrawal-from-your-gnosis-multi-signature-wallet-with-ledger-nano-s.md)
 * [Recommended Wallet Setups](recommended-wallet-setups.md)
   * [Introduction](recommended-wallet-setups/introduction.md)
+  * [Threat Models](recommended-wallet-setups/threat-models.md)
   * [Level 1](recommended-wallet-setups/level-1.md)
   * [Level 2](recommended-wallet-setups/level-2.md)
   * [Level 3](recommended-wallet-setups/level-3.md)
