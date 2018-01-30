@@ -6,7 +6,7 @@ Hot wallets are wallets that are are usually very accessible, but are less secur
 
 Cold wallets are wallets that are not connected to the Internet. They are usually less accessible, but are more secure. Examples of cold wallets are Multi-Signature Wallets and private keys that you keep on Offline Computers.
 
-While this may be confusing, some people use hot wallets in their cold-storage setup [insert joke about "warm" setup]. This will depend on the grade of cold-storage you are personally after.
+While this may be confusing, some people use hot wallets in their cold-storage setup [insert joke about "warm" setup]. For example, you could use a Metamask account (hot wallet) to sign transactions from your Multi-Signature Wallet (cold wallet). It's up to you to decide what grade of cold-storage you are personally after.
 
 If you have funds you want to put away for safe keeping and rarely touch, you should setup a cold-wallet system.  If you have funds you want to use though, you should setup a hot-wallet setup, but use it sparingly. Keep enough funds as you need in a hot-wallet, and store the rest in cold-wallets.
 
