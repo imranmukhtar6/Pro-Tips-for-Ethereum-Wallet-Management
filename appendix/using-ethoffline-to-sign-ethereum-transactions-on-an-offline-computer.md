@@ -37,4 +37,4 @@ Here's some step-by-step instructions on how to use both tools.
 
 13. On the EthScanner app, click “Broadcast Transaction to Mainnet”.
 
-**Note**: EthOffline is not compliant with [EIP155](https://github.com/ethereum/eips/issues/155). This means that if you have both ETH and ETC (or any other fork of Ethereum), then your funds may be vulnerable to a "replay attack". Please use another tool for now, until this is resolved.
+**Note**: EthOffline is not compliant with [EIP155](https://github.com/ethereum/EIPs/blob/master/EIPS/eip-155.md). This means that if you have both ETH and ETC (or any other fork of Ethereum), then your funds may be vulnerable to a "replay attack". Please use another tool for now, until this is resolved.
