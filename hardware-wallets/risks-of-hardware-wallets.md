@@ -1,6 +1,6 @@
 ### Risks of Hardware Wallets
 
-While hardware wallets are certainly safer than most options (so long as they are ordered directly from the manufacture and have never been used or tampered with) there are still some worrying aspects about them which can make them potentially vulnerable.
+While hardware wallets are certainly safer than most options (so long as they are ordered directly from the manufacturer and have never been used or tampered with) there are still some worrying aspects about them which can make them potentially vulnerable.
 
 Most wallets out there require you to plug them in physically with a computer or phone when you use them. While this is reasonable, considering the technology of today, it does expose the device to potential unknown vulnerabilities of the computer/phone and the hardware wallet itself. For example, there could be undiscovered vulnerabilities in the USB hardware or the wallet. By plugging the wallet in directly, these vulnerabilities are now presented to potential malware on the computer or phone.
 
