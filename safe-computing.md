@@ -6,6 +6,8 @@ Whenever you are connected to the Internet, there is always the risk that someon
 
 In this chapter, we will learn:
 
-- How you should treat "exchanges" (places where you can buy and sell cryptocurrencies) and "hot wallets" (wallets that are connected to the Internet)
+- The differences between "hot wallets" (wallets that are connected to the Internet) and "cold wallets"  (wallets that are not connected to the Internet)
+
+- How you should deal with "hot wallets" and "exchanges" (places where you can buy and sell cryptocurrencies)
 
 - How to make your Online Computer safe (recommended online browsing practices, security tips from the MyEtherWallet, and my personal preferences for computing hardware)
