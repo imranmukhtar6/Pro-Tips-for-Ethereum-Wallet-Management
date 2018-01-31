@@ -1,6 +1,6 @@
 ## Bip39 Seeds and Ethereum Keys
 
-Some accounts are created using Bip seed phrases - special kinds of phrases that can generate private keys. The tool I recommend generates a type of Bip phrase called a Bip39 seed phrase.
+Some accounts are created using Bip seed phrases - special kinds of phrases that can generate private keys.  The tool I recommend generates a type of Bip phrase called a Bip39 seed phrase. Bip39 seed phrases are a standard in the cryptocurrency community and are used across a number of software and hardware wallets (including MyEtherWallet and Ledger Nano S).
 
 You can think of Bip39 seed phrases like this:
 
