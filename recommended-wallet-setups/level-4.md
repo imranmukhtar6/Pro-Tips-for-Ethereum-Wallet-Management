@@ -32,4 +32,4 @@ This level has very complex setup options, using advanced software/hardware wall
   
 13. Attempt a 3-signature withdrawal from the multi-signature wallet.
  
-14. Now you can use that multi-signature wallet as your cold-store wallet.
+14. Now you can use that multi-signature wallet as your cold wallet.
