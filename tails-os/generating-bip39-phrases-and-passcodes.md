@@ -1,6 +1,6 @@
 ## Generating Bip39 Phrases and Passwords
 
-1. Startup Ian Coleman's Bip39 tool in Tor Browser.
+1. Startup Ian Coleman's Bip39 tool in Tor Browser (copy Ian Colemans Bip39 Tool's html file into the Tor Browser folder, then right click and select Open with Tor Browser. See ["Booting Any Offline JS/HTML Tool in Tails"](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/tails-os/booting-any-offline-jshtml-tool-in-tails.html).
 
 2. Select “Supply my own source of entropy”.
 
