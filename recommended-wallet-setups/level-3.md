@@ -30,4 +30,4 @@ This level requires the use of five basic software/hardware wallets, and a [Gnos
  
  12\. Attempt a 3-signature withdrawal from the multi-signature wallet
  
- 13\. Now you can use that multi-signature wallet as your cold-store wallet.
+ 13\. Now you can use that multi-signature wallet as your cold wallet.
