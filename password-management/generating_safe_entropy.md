@@ -33,11 +33,11 @@ Use a combination of any or all to generate your own source of entropy:
 
       - To access the virtual keyword in Tails OS, click the keyboard icon on top of the screen.
 <p></p>
-- You can also try using the Unix system entropy generation `/dev/urandom` by running this script in a command line terminal (in Tails OS, you can access Terminal by Applications -> Favorites -> Terminal).
+- On Unix or Linux-based systems, you can also try using the Unix system entropy generation `/dev/urandom` by running this script in a command line terminal (in Tails OS, you can access Terminal by Applications -> Favorites -> Terminal).
 
 ```
 head -10 /dev/urandom | LC_ALL=C tr -dc 'a-zA-Z0-9~!@#$%^&*(){}[]"|?+="><__-' | head -n 1
 ```
 	
-Adjust the `-10` number for more or less lines of entropy.
+**Note**: Adjust the `-10` number for more or less lines of entropy.
 
