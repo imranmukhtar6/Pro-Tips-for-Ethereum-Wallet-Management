@@ -6,7 +6,7 @@ Whenever you are connected to the Internet, there is always the risk that someon
 
 In this chapter, we will learn:
 
-- The differences between "hot wallets" (wallets that are connected to the Internet) and "cold wallets"  (wallets that are not connected to the Internet)
+- The differences between "hot wallets" (favoured for practical every-day use over security) and "cold wallets" (favoured for longer term security over practical use)
 
 - How you should deal with "hot wallets" and "exchanges" (places where you can buy and sell cryptocurrencies)
 
