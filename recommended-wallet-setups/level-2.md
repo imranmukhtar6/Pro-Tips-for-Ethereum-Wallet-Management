@@ -4,7 +4,7 @@ This level requires the use of either a hardware wallet or an offline computer. 
 
 #### Complex [Hardware Wallet](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/hardware-wallets.html) Wallet ([Air-Gapped](https://tra38.gitbooks.io/pro-tips-for-ethereum-wallet-management/content/offline-computing/building-your-offline-air-gapped-computer.html) Setup with Bip39 Passphrase)
 
- 1\. Setup a single Ledger Nano S. Plug into a plug not computer when creating seed/accounts.
+ 1\. Setup a single Ledger Nano S. Plug into a plug (not a computer) when creating seed/accounts.
  
  2\. Upgrade/verify that your Ledger Nano S is at version 1.3.1.
  
