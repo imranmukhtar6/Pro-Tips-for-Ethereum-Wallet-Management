@@ -5,7 +5,7 @@ To defend yourself, you need to know what you're defending against. There's mult
 Examples of Common Threats:
  - Malware
  
- - Forgetting instructions
+ - Forgetting, losing or corrupting instructions
  
  - Improper key handling (i.e. giving a third-party site your private key)
  
