@@ -24,7 +24,9 @@ Examples of Major Threats:
 
 Figure out what you are most afraid of, and then design your wallet setup to ward off those fears.
 
-As we increase the difficulty level, we are able to handle more and more of these threats. For example, the Gnosis Multi-Sig Wallet protects against the possibility of you losing one of your private keys by having a policy of "key redundancy". If you in possession of at least one valid key, you are allowed to withdraw a certain amount of funds from the wallet every day (up to the "daily limit").
+As we increase the difficulty level, we are able to handle more and more of these threats.
+
+For example, the Gnosis Multi-Sig Wallet with Daily Limit Withdrawal protects against the possibility of you losing all funds to situations like the destruction of all but one of your multi-signature accounts. It does so by having a policy of daily withdrawal. So  long as you are in possession of at least one valid signing account, you can withdraw your daily limit of funds from the wallet every day, until your funds are restored. While this may take a while, at least you can eventually recover most of your funds (minus transaction fees). This kind of redundancy is simply not possible in non-contractual multi-signature systems.
 
 However, the higher difficulty levels are still vulnerable to threats of their own, such as forgetting instructions.
 
