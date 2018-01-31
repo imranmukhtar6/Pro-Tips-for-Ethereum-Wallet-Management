@@ -2,7 +2,7 @@
 
 ![](/assets/network-2081171__480.jpg)
 
-Whenever you are connected to the Internet, there is always the risk that someone can gain access to your machine, either through hacking or social manipulation. Trust no one.
+Whenever you are connected to the Internet, there is always the risk that someone can gain access to your machine, accounts or secrets, either through hacking, malware, spoofing or social manipulation. Be vigilant and you will thrive.
 
 In this chapter, we will learn:
 
