@@ -2,7 +2,7 @@
 
 ![](/assets/offline-525700__480.png)
 
-The Internet is a scary place, filled to the brim with malware and hackers seeking to take advantage of any possible security vulnerability on your computer to steal your secrets (especially your seed phrase and passwords). That's why it's a good idea to store your secrets onto a computer that is *offline*, disconnected from the rest of the world.
+The Internet is a scary place, filled to the brim with malware and hackers seeking to take advantage of any possible security vulnerability on your computer to steal your secrets (especially your seed phrases, passwords and private keys). That's why it's a good idea to handle your sensitive computing needs *offline* (away from any internet connection).
 
 In this chapter, we will learn:
 
