@@ -8,6 +8,8 @@ In this chapter, we will learn:
 
 - How to build our very own "offline air-gapped computer"
 
-- Why I prefer using SD Cards over USB Keys when transferring information from our normal "online computer" over to our  "offline computer"
+- How to use that "offline" computer
+
+- Why I prefer using SD Cards over USB Keys when transferring information from our normal "online computer" over to our "offline computer"
 
 - How to safely transfer data from 'insecure' SD cards that may be exposed an "online computer" over to 'secure' SD cards that only interacted with the offline computer
