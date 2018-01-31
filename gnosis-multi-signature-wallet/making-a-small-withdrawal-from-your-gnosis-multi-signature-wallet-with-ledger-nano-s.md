@@ -19,3 +19,5 @@
 9. Confirm the transaction, and open the transaction hash in EtherScan.
 
 10. Ensure the transaction went through successfully.
+
+**Note**: the Gnosis Team will be releasing a new experiemental multi-signature wallet called the Gnosis Safe. Stay tuned for more exciting multi-signature wallet technology from the Gnosis Team.
