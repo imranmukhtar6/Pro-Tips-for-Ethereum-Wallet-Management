@@ -12,7 +12,7 @@ For reference, this is what an Ethereum private key (in hexadecimal format) look
 
      0xfdb32a9e7ecd6408c491d0db8f525597eca49abe6acad75a5d6ff28e9818347b
 
-And this is it's subsequent Ethereum public key (in hexadeimal format):
+And this is its subsequent Ethereum public key (in hexadeimal format):
 
      0x0213555f283a98881b01eb0da53fb4569de723d1b7aae64b2a567508675e4d0835
 
