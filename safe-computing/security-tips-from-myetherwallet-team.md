@@ -1,6 +1,6 @@
 ## Security Tips from MyEtherWallet Team
 
-While I don't recommend MyEtherWallet (MEW) for cold storage, they are a great open source project and team with a wallet that everyone is using nowadays. I’ve repeated some of these tips throughout this document. They wrote a fantastic reddit post about some basic security practices. Here are the post's main points:
+While I don't recommend MyEtherWallet (MEW) for cold storage exclusively, they are a great open source project and team with a wallet that everyone is using nowadays. I’ve repeated some of these tips throughout this document. They wrote a fantastic reddit post about some basic security practices. Here are the post's main points:
 
 "**How can you protect yourself?**
 
