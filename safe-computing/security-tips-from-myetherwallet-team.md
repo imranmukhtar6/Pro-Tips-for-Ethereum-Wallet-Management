@@ -33,6 +33,7 @@ While I don't recommend MyEtherWallet (MEW) for cold storage exclusively, they a
 13. **Install an adblocker that actually turns off Google/Bing Ads.** I recommend going with [uBlock Orgin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en). If you are already using Adblock Plus, it does not hide Google Ads from you. Go into your Adblock Plus settings and uncheck the box that says “Allow some non-intrusive advertising”.
 
 14. **Don’t click on advertisements.** With or without an adblocker, you should never, ever click on advertisements.
+
 15. If you have accidentally visited or typed a malicious site, clean out your recent history and autocomplete. This will prevent you from typing kra… and having it autocomplete to the malicious krakken.com.
 
 16. **No one is giving you free or discounted ETH.** Even for completing a survey.
