@@ -12,4 +12,4 @@
 
 - Do your research on the manufacturer and devices you are buying (make sure you know what you are getting and where you should/can go if you have problems).
 
-- You can use MyEtherWallet to view and transfer currency stored on hardware wallets, thereby taking advantage of MyEtherWallet's easy-to-use UI while keeping the security and safety of a hardware wallet.  Here are [some step-by-step instructions](https://www.easycoinbuy.com/how-to/how-to-use-a-ledger-wallet-with-mew) explaining how to use a Ledger Nano S with MyEtherWallet.
+- You can use MyEtherWallet to view and transfer cryptocurrency that are stored on hardware wallets, thereby taking advantage of MyEtherWallet's easy-to-use UI while keeping the security and safety of a hardware wallet.  Here are [some step-by-step instructions](https://www.easycoinbuy.com/how-to/how-to-use-a-ledger-wallet-with-mew) explaining how to use a Ledger Nano S with MyEtherWallet.
