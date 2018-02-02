@@ -13,5 +13,3 @@ However, if you want to go deeper and empower yourself with some great tools and
 At the end of the book, we will show several recommended wallet setups for you to use, as well as ways of determining what "wallet setup" would best suit your needs and situation.
 
 **Note**: If you are new to Ethereum or just want more information about this cryptocurrency, here's [a beginner's guide](https://medium.com/@NickDodson/super-beginners-guide-to-ethereum-cc592c8b3c32) and a ["Crowdsourced Ethereum Reading List"](https://github.com/Scanate/EthList) to get you started.
-
-TESTING GITHUB-GITBOOK INTEGRATION
